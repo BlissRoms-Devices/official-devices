@@ -1,0 +1,15 @@
+[
+   {
+      "brand": "Xiaomi",
+      "codename": "raphael",
+      "name": "Mi 9T Pro / Redmi K20 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Taran",
+            "maintainer_url": "https://forum.xda-developers.com/m/joeyhuab.4936496",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-12-raphael-official-evolution-x-snow.4356861"
+         }
+      ]
+   },
