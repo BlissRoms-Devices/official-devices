@@ -287,6 +287,17 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "vayu",
+      "name": "Poco X3 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Alisson Grizotti",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "raphael",
       "name": "Redmi K20 Pro / Mi 9T Pro",
       "supported_versions": [
