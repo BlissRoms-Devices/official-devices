@@ -1,1 +1,4 @@
+Device Changelog:
 
+• Some Improvements
+• Initial Official Build
