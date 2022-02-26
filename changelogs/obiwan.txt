@@ -1,0 +1,4 @@
+Device Changelog
+- Added Refresh Rate Settings
+- Fixed UDFPS Icon Alignment issues.
+- Misc Fixes
