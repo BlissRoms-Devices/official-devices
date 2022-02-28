@@ -55,6 +55,17 @@
       ]
    },
    {
+      "brand": "Asus",
+      "codename": "X00TD",
+      "name": "Zenfone Max Pro M1",
+      "supported_versions": [
+         {
+            "maintainer_name": " ATANYTHING ",
+            "support_thread": "https://t.me/mst_roms_X00T"
+         }
+      ]
+   },
+   {
       "brand": "Google",
       "codename": "sargo",
       "name": "Pixel 3A",
