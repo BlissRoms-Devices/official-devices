@@ -1,1 +1,11 @@
+• Initial official build
 
+• Ships with 4.4.302-Ultron kernel
+
+• Fixed chrome lag
+
+• Add zenparts
+
+• Add QPNP
+
+• Fixed Crome lag
