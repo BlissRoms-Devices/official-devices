@@ -1,4 +1,4 @@
 Device Changelog:
 
-• Some Improvements
-• Initial Official Build
+• Smoothness Improved
+• Others Improvements
