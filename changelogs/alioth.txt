@@ -1,0 +1,8 @@
+ Device Changelog
+- Change to new trees (sebaubuntu/los base)
+- Change to Arrow kernel compiled with proton clang
+- Thermal Profiles.
+- Clear Speaker
+- Refresh rate tile
+- Thermal profiles tile
+- Implement own fork of ParanoidDoze, PixelDoze (new ambient settings/gestures)
