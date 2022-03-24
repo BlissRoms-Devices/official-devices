@@ -287,6 +287,17 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "lmi",
+      "name": "Poco F2 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Macka76",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "alioth",
       "name": "Poco F3 / Redmi K40 / Mi 11X",
       "supported_versions": [
