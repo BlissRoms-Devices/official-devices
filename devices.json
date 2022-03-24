@@ -187,6 +187,17 @@
       ]
    },
    {
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "name": "Nord",
+      "supported_versions": [
+         {
+            "maintainer_name": "Keertesh",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "Realme",
       "codename": "RMX1921",
       "name": "XT",
