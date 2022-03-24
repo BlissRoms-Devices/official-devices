@@ -1,0 +1,3 @@
+* Initial Official Release.
+* Moved Touch Gestures from System > Gestures to OnePlus Settings section.
+* Added Face Unlock.
