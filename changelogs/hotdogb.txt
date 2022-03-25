@@ -1,0 +1,6 @@
+Latest Gulch Kernel 4.14.272 (Vanilla and Gapps)
+Added Google recording (Gapps)
+Added min and max refresh tiles(Vanilla and Gapps)
+Using Bliss Home Modified with Lawnicons instead of Pixel Launcher (Vanilla and Gapps)
+Safetynet Passes without Root(Vanilla and Gapps)
+Different optimizations to make it Smooth (Vanilla and Gapps)
