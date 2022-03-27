@@ -1,8 +1,14 @@
- Device Changelog
-- Change to new trees (sebaubuntu/los base)
-- Change to Arrow kernel compiled with proton clang
-- Thermal Profiles.
-- Clear Speaker
-- Refresh rate tile
-- Thermal profiles tile
-- Implement own fork of ParanoidDoze, PixelDoze (new ambient settings/gestures)
+Device changelog
+
+Import Display-calibration from HelluvaOS
+Update audio configurations from MIUI 13
+Add support for aod auto brightness
+Add GCam BGG as default camera instead gcam go
+Update SF durations
+Update msm-irqbalance
+Refresh rate per app
+Improved RAM management
+Implemented battery friendly pocketmode
+Update powerhint
+Build display composer
+Removed Phonograph
