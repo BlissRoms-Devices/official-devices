@@ -1,4 +1,4 @@
 Device Changelog
-- Added Refresh Rate Settings
-- Fixed UDFPS Icon Alignment issues.
+- Removed Cutout settings
+- Added face unlock support
 - Misc Fixes
