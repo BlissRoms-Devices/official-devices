@@ -416,5 +416,16 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
-   }
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "haydn",
+      "name": " Xiaomi Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i",
+      "supported_versions": [
+         {
+            "maintainer_name": "AyanC1",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   }   
 ]
