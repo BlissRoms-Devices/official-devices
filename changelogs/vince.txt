@@ -1,0 +1,5 @@
+Initial A12L build 
+Ship with kernel Unitrix 4.9.312
+Drop Dirac sound enhancer and ship with moto dolby 
+Ignore lag after first boot it will settle down after 1-2min
+Nuke Some unnecessary apps from gapps build 
