@@ -1,0 +1,3 @@
+- Completely source built vendor
+- Fixed some bugs and issues
+- Optimized and cleanup
