@@ -1,4 +1,4 @@
 Device Changelog
-- Removed Cutout settings
-- Added face unlock support
-- Misc Fixes
+- Updated blobs from latest release
+- Fixed Notification LED not turning off
+- Misc optimizations
