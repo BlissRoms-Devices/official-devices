@@ -1,11 +1,21 @@
-• Initial official build
+• Use qcom implimentation for se effects 
 
-• Ships with 4.4.302-Ultron kernel
+• Disabled triple fram buffers 
 
-• Fixed chrome lag
+• Increased max visible notification icons 
 
-• Add zenparts
+• Disabled HWC overlay 
 
-• Add QPNP
+• Defined rounded corners radius 
 
-• Fixed Crome lag
+• Optimised ART props 
+
+• Inherit several Android GO improvements 
+
+• Disabled HWC vids 
+
+• Switched to eas perf hals 
+
+• Added some touch improvements props 
+
+• Removed some packages at build time 
