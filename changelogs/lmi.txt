@@ -1,11 +1,5 @@
  Device Changelog
- - Initial official build 15.3
- - Perf Kernel upstream to 4.19.235
- - Kernel merged latest CAF tag
- - Lawnchair Shipped as default Launcher
- - Performance improvements
--  SafetyNet pass without root as usual
--  Don't pin launcher app in memory
--  Don't pin camera app in memory
--  Added Face unlock & App Lock
--  More improvements & bug fixes!
+- Updated blobs to LMI global 13.0.1
+- Switched to lineage-19.1 trees
+- Decrepted build
+- Upstream perf kernel 4.19.242
