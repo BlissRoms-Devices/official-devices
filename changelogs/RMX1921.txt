@@ -1,36 +1,25 @@
- Uprev composer to 2.3
+Initial 12L Build
 
- Kernel Upstream to 4.9.301
+Kernel Upstream to 4.9.313
 
- Fixed glitches in auto brightness & high brightness
+Removed unused blobs in Vendor
 
- Fixed Multiple same apn copy issues
+Blur enabled for some SystemUI backgrounds
 
- Switched to stock fp
+Merged qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04700-SDM710.0
 
- Merged qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04600-SDM710.0
+Updated DPM, IMS, and RIL system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
 
- Added switch for Unlimited Google Photos storage.
+Updated WiFi Display system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
 
- Fixed "Connected, Not charging" string in battery settings
+Updated GPS blobs & configs from pnx_sprout
 
- Merged latest caf tag LA.UM.9.8.r1-04700-SDM710.0 in kernel
+Added back Face Unlock
 
- Merged qcacld-3.0, fw-api, qca-wifi-host-cmn wifi drivers from LA.UM.9.8.r1-04700-SDM710.0
+Added App Lock
 
- Updated DPM, IMS, and RIL system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
+Switch to Vulkan hwui rendering again
 
- Updated WiFi Display system blobs from LA.QSSI.12.0.r1-05800.02-qssi.0
+SafetyNet pass without root as usual
 
- Added Face Unlock
-
- Added App Lock
-
- Added Call Recording by default in Google Dialer
-
- Switch to Vulkan hwui rendering again
-
- SafetyNet pass without root as usual
-
- More improvements & bug fixes!
-
+More improvements & bug fixes!
