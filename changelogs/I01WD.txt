@@ -1,3 +1,4 @@
 - Completely source built vendor
 - Fixed some bugs and issues
+- Fixed NFC and Wireless payments
 - Optimized and cleanup
