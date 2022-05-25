@@ -1,14 +1,5 @@
 Device changelog
 
-Import Display-calibration from HelluvaOS
-Update audio configurations from MIUI 13
-Add support for aod auto brightness
-Add GCam BGG as default camera instead gcam go
-Update SF durations
-Update msm-irqbalance
-Refresh rate per app
-Improved RAM management
-Implemented battery friendly pocketmode
-Update powerhint
-Build display composer
-Removed Phonograph
+Revive Vanilla builds \( ﾟヮﾟ)/
+Drop Simple Calculator
+Introduce Graphene Camera on Vanilla
