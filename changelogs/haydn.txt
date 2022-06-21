@@ -1,1 +1,8 @@
 1. Initial Build
+================================================================================================
+[21-06-2022]
+1. July Update
+2. Add Support for QuickTap
+3. Update rounded corners
+4. Update blobs
+5. Doze changes
