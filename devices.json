@@ -93,7 +93,7 @@
       "name": "Pixel 4 XL",
       "supported_versions": [
          {
-            "maintainer_name": "Jackeagle",
+            "maintainer_name": "stebomurkn420",
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
@@ -115,7 +115,18 @@
       "name": "Pixel 5",
       "supported_versions": [
          {
-            "maintainer_name": "Jackeagke",
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "barbet",
+      "name": "Pixel 5a",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jackeagle",
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]

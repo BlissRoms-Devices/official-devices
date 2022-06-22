@@ -1,0 +1,5 @@
+- Bliss 15.5 with May SP (Android 12L)
+- 4.9.227 Kernel used (optimal for performance and battery)
+- Switch to QTI BT
+- Implement Safailnet to pass cts even when unrooted
+- Enable Doze
