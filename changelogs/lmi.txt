@@ -1,5 +1,6 @@
  Device Changelog
-- Updated blobs to LMI global 13.0.1
-- Switched to lineage-19.1 trees
-- Decrepted build
-- Upstream perf kernel 4.19.242
+- Bliss 15.6 with June SP (Android 12L) and several new features and fixes
+- Parts update to SDK to version 30
+- Change udfps impl to UDFPS handler
+- Fixed offline charging 
+- Switch to immensity kernel 4.19.246
