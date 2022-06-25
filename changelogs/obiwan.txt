@@ -1,4 +1,5 @@
 Device Changelog
 - Updated blobs from latest release
 - Fixed Notification LED not turning off
+- Fixed delayed lockscreen wake up
 - Misc optimizations
