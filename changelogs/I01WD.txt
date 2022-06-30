@@ -1,4 +1,7 @@
 - Completely source built vendor
-- Fixed some bugs and issues
-- Fixed NFC and Wireless payments
+- Added Screen off Touch Gestures
+- Added Smart Key Customizations
+- Added Fingerprint Gestures Customization
+- Fixed delayed wakeup of lockscreen
+- Fixed SystemUI restart on switch between BT and Phone speaker via Volume Panel
 - Optimized and cleanup
