@@ -1,3 +1,5 @@
-- Switched to source-built vendor
-- Fixed Biometric issues
+- Added Screen off Touch Gestures
+- Added Swipe Gestures Customization
+- Fixed delayed wakeup of lockscreen
+- Fixed SystemUI restart on switch between BT and Phone speaker via Volume Panel
 - Fixed misc issues
