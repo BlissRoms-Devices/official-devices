@@ -1,5 +1,8 @@
 Device Changelog
-- Updated blobs from latest release
-- Fixed Notification LED not turning off
-- Fixed delayed lockscreen wake up
+- Updated blobs from Asus Android 12 Release
+- Updated Kernel to Asus Android 12 Release
+- Default Refresh Rate is set to 90hz
+- Disabled Touch Gestures for now
+- Added AsusParts Support (Doze Customization)
+- Moved to RRO-Overlays
 - Misc optimizations
