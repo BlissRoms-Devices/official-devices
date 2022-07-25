@@ -1,20 +1,9 @@
-* Merged android-12.1.0_r4
-* Fixed keyguard indicator margin
-* Updated power_profile
-* Updated Blobs from OOS 11.1.10.10.AC01DA (Nord)
-* Adapted overlays for new statusbar height APIs
-* Used thermal-engine from OOS
-* Moved OP Parts to System
-* Updated USB HAL to V1.3 implementation
-* Updated Blobs from OOS 11.0.16.16.EB13DA (Common Blobs)
-* Build media Codec2 modules
-* Removed 5g modes switcher
-* Updated CarrierConfig from OOS12 OB2
-* Added Vulkan dEQP feature flags
-* Disabled dolby by default
-* Import QTI Codec2 HAL
-* Improved haptic and vibe patterns
-* Sepolicy fixes
-* Disabled useless logs
-* Updated wifi configs
-* Updated rootdir scripts from LA.UM.9.12.r1-13300-SMxx50.QSSI12.0
+* Merged July Patch
+* Enable QuickTap
+* Enable UDFPS Animations (pressed color won't work)
+* Blobs cleanup
+* Thermal config from OOS
+* Improved statusbar dimensions
+* Enable Qualcomm TrueWireless™ Stereo 
+* Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0
+* Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0
