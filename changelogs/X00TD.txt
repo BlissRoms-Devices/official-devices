@@ -1,21 +1,3 @@
-• Use qcom implimentation for se effects 
+• Added ZenParts Again 
 
-• Disabled triple fram buffers 
-
-• Increased max visible notification icons 
-
-• Disabled HWC overlay 
-
-• Defined rounded corners radius 
-
-• Optimised ART props 
-
-• Inherit several Android GO improvements 
-
-• Disabled HWC vids 
-
-• Switched to eas perf hals 
-
-• Added some touch improvements props 
-
-• Removed some packages at build time 
+• Improved Stability
