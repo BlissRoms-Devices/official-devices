@@ -1,5 +1,4 @@
 Device changelog
 
-Revive Vanilla builds \( ﾟヮﾟ)/
-Drop Simple Calculator
-Introduce Graphene Camera on Vanilla
+Set bootanimation to 1080p (fits screen properly now)
+Include recommended firmware in flashable zip
