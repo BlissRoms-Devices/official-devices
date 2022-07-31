@@ -1,6 +1,7 @@
  Device Changelog
-- Bliss 15.6 with June SP (Android 12L) and several new features and fixes
-- Parts update to SDK to version 30
-- Change udfps impl to UDFPS handler
-- Fixed offline charging 
-- Switch to immensity kernel 4.19.246
+- Bliss 15.7 with July SP (Android 12L) and several new features and fixes
+- Updated blobs from Xiaomi to 13.03
+- Changed trees to CMI trees adapted to LMI.
+- Added screen overclock to 77hz
+- Added toggle and refreshrate tile to change from 60-77hz.
+- Shipped with Immensity kernel 4.19.252
