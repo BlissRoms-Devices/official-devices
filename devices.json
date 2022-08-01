@@ -199,6 +199,16 @@
    },
    {
       "brand": "OnePlus",
+      "codename": "lemonadep",
+      "name": "9 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "srgrusso",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },   {
+      "brand": "OnePlus",
       "codename": "avicii",
       "name": "Nord",
       "supported_versions": [
