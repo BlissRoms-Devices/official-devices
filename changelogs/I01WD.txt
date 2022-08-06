@@ -1,7 +1,10 @@
 - Completely source built vendor
+- Fixed Reboot issues
+- Fixed low audio issues.
+- Fixed no audio control on call
+- Widevine L1 (Tested on Developer device) 
+- Added AsusParts
 - Added Screen off Touch Gestures
 - Added Smart Key Customizations
 - Added Fingerprint Gestures Customization
-- Fixed delayed wakeup of lockscreen
-- Fixed SystemUI restart on switch between BT and Phone speaker via Volume Panel
 - Optimized and cleanup
