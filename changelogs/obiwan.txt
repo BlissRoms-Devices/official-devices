@@ -1,8 +1,8 @@
 Device Changelog
-- Updated blobs from Asus Android 12 Release
-- Updated Kernel to Asus Android 12 Release
-- Default Refresh Rate is set to 90hz
-- Disabled Touch Gestures for now
-- Added AsusParts Support (Doze Customization)
-- Moved to RRO-Overlays
+- Added PixelWorks Back and Display stack blobs back to Asus A12
+- Fixed Vibration strength (Stock like vibration!)
+- CPU Optimizations 
+- NFC is built from source
+- Fingerprint sensor improvements
+- Color Modes should work as expected
 - Misc optimizations
