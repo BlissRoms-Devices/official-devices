@@ -5,4 +5,5 @@ Device Changelog
 - NFC is built from source
 - Fingerprint sensor improvements
 - Color Modes should work as expected
+- Default USB Port set to bottom port now. (Bootloader will still need Side port)
 - Misc optimizations
