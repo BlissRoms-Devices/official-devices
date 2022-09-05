@@ -1,4 +1,66 @@
 ====================
+     09-04-2022
+====================
+\n* frameworks/av\n02c1cf8  Camera: Skip stream size check for whitelisted apps.  [Gaoxiang Chen]\n
+\n* frameworks/base\n76102a1  TouchGestures: Add keyhandler overlays  [jhenrique09]
+2fe131a  fixup! Camera: Skip stream size check for whitelisted apps..  [Gaoxiang Chen]\n
+\n* vendor/bliss\nb2a6d42  Build TouchGestures  [jhenrique09]
+36822e5  vendor: soong: Add TARGET_CAMERA_NEEDS_CLIENT_INFO_LIB  [Hikari-no-Tenshi]\n
+====================
+     09-03-2022
+====================
+\n* device/oneplus/sm8350-common\n04dff6f  sm8350-common: configs: audio: Use QCOM implementation for audio effects - AOSP effects doesn't give as thicc'n'sicc bass boost as the QC effects do.  [ANUSH MADATHUMKARA]\n
+\n* vendor/oneplus\n92b372f  strip unneeded vendor blobs  [srgrusso]\n
+====================
+     09-02-2022
+====================
+\n* device/oneplus/sm8350-common\n6414589  sm8350-common: Implement OnePlus Dolby support  [HELLBOY017]\n
+\n* vendor/oneplus\n27a7ace  sm8350-common: Import OnePlus Dolby blobs  [chandu078]\n
+====================
+     09-01-2022
+====================
+====================
+     08-31-2022
+====================
+\n* device/oneplus/sm8350-common\nb0a6ff5  sm8350-common: remove_packages: Drop Camera2 and Photos  [srgrusso]\n
+\n* hardware/oplus\n15b97ef  oplus: sepolicy: Add dolby support  [HELLBOY017]\n
+\n* vendor/oneplus\nbdd23a3  sm8350-common: Import blobs for oplus camera  [chandu078]\n
+====================
+     08-30-2022
+====================
+====================
+     08-29-2022
+====================
+\n* hardware/oplus\n2807dde  oplus: sepolicy: Address camera denials  [chandu078]\n
+====================
+     08-28-2022
+====================
+\n* device/oneplus/sm8350-common\nae8f8b4  sm8350-common: Implement oplus camera & oneplus gallery support  [Chandu Dyavanapelli]\n
+====================
+     08-27-2022
+====================
+\n* device/oneplus/sm8350-common\n30c4b35  sm8350-common: Allow aux cam access for system cameras  [Pranav Vashi]
+b5fa291  sm8350-common: Enforce android-S new launch debugfs restrictions  [P.Adarsh Reddy]
+49dacd6  sm8350-common: init: Drop vm-bootsys from fstab  [Alexander Koskovich]
+1387f96  sm8350-common: Extract hotword apps to correct directory  [LuK1337]\n
+====================
+     08-26-2022
+====================
+====================
+     08-25-2022
+====================
+\n* vendor/oplus/camera\n08df2bd  camera: Update from OOS 11.C.63  [chandu078]\n
+====================
+     08-24-2022
+====================
+\n* vendor/oneplus\n8ca16ee  instantnoodle: Add bmi26x/mmc5603x sensor configs  [LuK1337]\n
+====================
+     08-23-2022
+====================
+====================
+     08-22-2022
+====================
+\n* packages/apps/DeskClock\n2241bd7  DeskClock: Stop editing time when pausing the app  [Michael W]\n====================
      07-31-2022
 ====================
 ====================
