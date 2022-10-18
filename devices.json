@@ -341,6 +341,17 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "phoenix",
+      "name": "Poco X2",
+      "supported_versions": [
+         {
+            "maintainer_name": "Shripal17",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "vayu",
       "name": "Poco X3 Pro",
       "supported_versions": [
