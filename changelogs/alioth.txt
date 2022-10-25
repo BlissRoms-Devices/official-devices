@@ -1,4 +1,1 @@
-Device changelog
-
-Set bootanimation to 1080p (fits screen properly now)
-Include recommended firmware in flashable zip
+Initial Android 13 release
