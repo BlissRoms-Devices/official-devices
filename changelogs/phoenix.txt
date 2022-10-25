@@ -1,0 +1,5 @@
+25/10/2022:
+- Increased maximum allowed brightness from 455nits to 495nits
+- Added support for changing "Minimum Refresh Rate" (Settings -> Display)
+- Added support for toggling "Smooth Display" / "Variable Refresh Rate" (Settings -> Display)
+- Switched to risan kernel
