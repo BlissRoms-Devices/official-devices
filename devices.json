@@ -342,18 +342,7 @@
    {
       "brand": "Xiaomi",
       "codename": "phoenix",
-      "name": "Poco X2",
-      "supported_versions": [
-         {
-            "maintainer_name": "Shripal17",
-            "support_thread": "https://t.me/Unofficial_X2"
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "phoenix",
-      "name": "Poco X2",
+      "name": "Poco X2 / Redmi K30",
       "supported_versions": [
          {
             "maintainer_name": "Shripal17",
