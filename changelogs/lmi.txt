@@ -1,7 +1,4 @@
  Device Changelog
-- Bliss 15.7 with July SP (Android 12L) and several new features and fixes
-- Updated blobs from Xiaomi to 13.03
-- Changed trees to CMI trees adapted to LMI.
-- Added screen overclock to 77hz
-- Added toggle and refreshrate tile to change from 60-77hz.
-- Shipped with Immensity kernel 4.19.252
+- Initial Android 13 release
+- Added DC Dimming
+- Updated immenisty kernel 4.19.261

@@ -5,7 +5,7 @@
       "name": "ROG 2",
       "supported_versions": [
          {
-            "maintainer_name": "Jackeagle",
+            "maintainer_name": "StudioKeys, Jackeagle",
             "support_thread": "https://t.me/ROGBliss"
          }
       ]
@@ -171,7 +171,7 @@
       "supported_versions": [
          {
             "maintainer_name": "srgrusso",
-            "support_thread": "https://forum.xda-developers.com/t/rom-official-a12-gapps-blissroms-15-x-guacamole.4388537/"
+            "support_thread": "https://forum.xda-developers.com/t/rom-official-a13-gapps-blissroms-16-x-guacamole.4509881/"
          }
       ]
    },
@@ -204,7 +204,7 @@
       "supported_versions": [
          {
             "maintainer_name": "srgrusso",
-            "support_thread": "https://forum.xda-developers.com/t/rom-official-a12-gapps-gcam-blissroms-15-x-lemonadep.4474943/"
+            "support_thread": "https://forum.xda-developers.com/t/rom-official-a13-gapps-oneplus-cam-blissroms-16-x-lemonadep.4509505/"
          }
       ]
    },   {
@@ -334,8 +334,19 @@
       "name": "Poco F3 / Redmi K40 / Mi 11X",
       "supported_versions": [
          {
-            "maintainer_name": "Amy Grace",
-            "support_thread": "https://t.me/blissalioth"
+            "maintainer_name": "Reza Bagas Rifaldy",
+            "support_thread": "https://t.me/GengKapakAlioth"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "phoenix",
+      "name": "Poco X2",
+      "supported_versions": [
+         {
+            "maintainer_name": "Shripal17",
+            "support_thread": "https://t.me/Unofficial_X2"
          }
       ]
    },
@@ -389,8 +400,8 @@
       "name": "Redmi Note 10 Pro/Max",
       "supported_versions": [
          {
-            "maintainer_name": "dhimanparas20",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "ραναи-ρα∂αмαтα",
+            "support_thread": "https://t.me/pavanbuilds"
          }
       ]
    },
