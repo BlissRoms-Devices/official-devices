@@ -1,7 +1,6 @@
 - Completely source built vendor
-- Fixed Reboot issues
-- Fixed low audio issues.
-- Fixed no audio control on call
+- Android 13
+- Cleanup Asus stuffs
 - Widevine L1 (Tested on Developer device) 
 - Added AsusParts
 - Added Screen off Touch Gestures
