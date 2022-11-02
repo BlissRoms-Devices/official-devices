@@ -1,5 +1,6 @@
 - Completely source built vendor
 - Android 13
+- Selinux Enforced
 - Cleanup Asus stuffs
 - Widevine L1 (Tested on Developer device) 
 - Added AsusParts
