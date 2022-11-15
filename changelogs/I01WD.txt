@@ -1,10 +1,14 @@
 - Completely source built vendor
-- Android 13
 - Selinux Enforced
-- Cleanup Asus stuffs
 - Widevine L1 (Tested on Developer device) 
 - Added AsusParts
 - Added Screen off Touch Gestures
 - Added Smart Key Customizations
+- Fixed Smart Key actions resetting on reboot
+- Added Camera Motor Caliberation option in AsusParts
+- Fixed Factory Reset from Settings reboots to bootloader
+- Fixed Recovery Factory Reset issue
+- Fixed Navigation Bar going off position
+- Fixed Double Tap to Wake on lockscreen
 - Added Fingerprint Gestures Customization
 - Optimized and cleanup
