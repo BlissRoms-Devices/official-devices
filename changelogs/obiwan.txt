@@ -6,3 +6,6 @@ Device Changelog
 - Fixed Mic issues
 - Misc Improvements
 - Added UDFPS Icon and Animations
+- Fixed USB Grey list via notification bar
+- Added AsusParts 
+- Added Touch Gestures Support
