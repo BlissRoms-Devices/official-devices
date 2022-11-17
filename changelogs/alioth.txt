@@ -1,1 +1,7 @@
-Initial Android 13 release
+NextKernel Upstreamed to 4.19.265
+Update volumes from Google Pixel 7 Pro
+Fixed ThemePicker Bug animation
+Remove obsolete debug.sf.disable_backpressure 
+Disable kpti
+Swich to AOSP wifi supplicant
+Import userdata tuning from oriole
