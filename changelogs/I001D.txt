@@ -1,1 +1,7 @@
-- Initial Android 13 release
+- Merged November Security Patches
+- Fully encrypted build
+- Addition of Asus Parts
+- Fix Settings of AsusParts getting disabled on every reboot
+- Fix UltraWide Cams
+- Import USB scripts from stock to ensure greater compatability
+- Add Burn-in Protection
