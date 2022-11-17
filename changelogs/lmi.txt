@@ -1,4 +1,5 @@
  Device Changelog
-- Initial Android 13 release
 - Added DC Dimming
-- Updated immenisty kernel 4.19.261
+- Switched to legacy sepolicy_vndr
+- Remote BT related configs
+- Updated immenisty kernel 4.19.263
