@@ -2,4 +2,4 @@
 - Added DC Dimming
 - Switched to legacy sepolicy_vndr
 - Remote BT related configs
-- Updated immenisty kernel 4.19.263
+- Updated immenisty kernel 4.19.261
