@@ -132,6 +132,39 @@
       ]
    },
    {
+      "brand": "Google",
+      "codename": "oriole",
+      "name": "Pixel 6",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "raven",
+      "name": "Pixel 6 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "bluejay",
+      "name": "Pixel 6a",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "oneplus3",
       "name": "3/3T",
