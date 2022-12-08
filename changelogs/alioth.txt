@@ -1,7 +1,21 @@
-NextKernel Upstreamed to 4.19.265
-Update volumes from Google Pixel 7 Pro
-Fixed ThemePicker Bug animation
-Remove obsolete debug.sf.disable_backpressure 
-Disable kpti
-Swich to AOSP wifi supplicant
-Import userdata tuning from oriole
+NextKernel Upstreamed to 4.19.268
+Enable suspend to RAM 
+Drop hifi support 
+Set bluetooth.device.default_name to 'Poco F3'
+Fix persist.vendor.radio.mbn_cdma dir
+Tune Adaptive Suspend parameters 
+Enable AutoHBM service on BootCompleted
+Update pinner configuration 
+Improvements on gps
+added some props for smooth scrolling and better responsiveness
+Added 150Mhz support 
+add MCC 470 complete support
+Don't boost top-app when screen is off 
+Don't send QoS request during launch
+Disable prefer_idle when screen goes off
+Fixup io_percent default value 
+Set prefer_high_cap on TA tasks during launch
+Disable adsprpcd 
+Remove TxPower2g and 5g from config file 
+Decrease top-app schedtune boost
+Import 32bit adsp/cdsp default listener libs 
