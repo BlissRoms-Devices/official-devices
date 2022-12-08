@@ -1,6 +1,7 @@
 Device Changelog
 - Adapted source to Android 13
 - Selinux Enforcing
+- Fixed Camera Viewfinder freeze on enforcing
 - Battery LED Customizations
 - Refresh Rate Control
 - Removed all Asus unwanted stuff that is not supported on AOSP
