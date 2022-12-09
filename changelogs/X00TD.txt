@@ -1,8 +1,12 @@
-• Initial Android 13 Build
-
 • Improve Stability
 
+• Fixed Sound :) 
+
+• Fixed lag in Cast
+
 Notes :- 
+• Dirty Flash is Applicable if you are on 16.1
+
 • Report Device Side Bugs
 
 • Don't Report Source Issues report those in Bliss Official group
