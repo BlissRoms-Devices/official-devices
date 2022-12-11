@@ -503,5 +503,16 @@
             "support_thread": "https://t.me/BlissRomsVince"
          }
       ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "name": "Redmi Note 8 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "overlang",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
    }
 ]
