@@ -2,4 +2,4 @@
 - Fully encrypted build
 - Fixed the AsusParts getting forgetted on reboot 
 - Switched Graphics from Adreno to OpenGL
-
+- Fixed MTP not working in previous build
