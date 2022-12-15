@@ -1,4 +1,2 @@
-- Bliss 15.6 with June SP (Android 12L) and several new features and fixes 
+- Bliss 16.2 with Nov'22 SP (Android 13)
 - Enforcing and Decrypted Build (Thanks Marc)
-- Add back FM Radio and LiveDisplay
-- Switch back to 4.9.292 Kernel (by Kailash)
