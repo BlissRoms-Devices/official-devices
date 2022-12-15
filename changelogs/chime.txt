@@ -1,2 +1,3 @@
 - Initial Android 13 release
 - Ship with Anya kernel 
+- Fixed Fingerprint and Camera issues
