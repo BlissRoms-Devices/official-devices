@@ -1,5 +1,4 @@
-- Merged November Security Patches
-- Fully encrypted build
-- Fixed the AsusParts getting forgetted on reboot 
-- Switched Graphics from Adreno to OpenGL
-- Fixed MTP not working in previous build
+- Merged January Security Patches
+- Fixed showing up on Asus Calibrate thingy in AsusParts
+- FP Alignments fixed
+- Misc opitmizations and changes under the hood
