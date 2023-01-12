@@ -1,5 +1,7 @@
 - Completely source built vendor
 - Selinux Enforced
+- Fixed SDCard Mount issues
+- Fixed Inverse Navbar issues
 - Widevine L1 (Tested on Developer device) 
 - Added AsusParts
 - Added Screen off Touch Gestures
