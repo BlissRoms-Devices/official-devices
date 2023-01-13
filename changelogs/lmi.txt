@@ -1,5 +1,8 @@
  Device Changelog
-- Added DC Dimming
-- Switched to legacy sepolicy_vndr
-- Remote BT related configs
-- Updated immenisty kernel 4.19.261
+- Add support UDFPS on AOD
+- Supress harmless denials
+- Fix compliation for QPR1 merge
+- Clean up overlays
+- Define AAPT configuration
+- Move libhidl shim to hardware/lineage/compat
+- Upstream immensity kernel to 4.19.268
