@@ -14,3 +14,5 @@ Device Changelog
 - Added AsusParts 
 - Added Touch Gestures Support
 - Bottom USB Port is now default (Bootloader will still require side port)
+- Fixed LS Charging Info
+- Fixed 3 Navbar Inverse Bug
