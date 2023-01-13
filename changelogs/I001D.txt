@@ -2,3 +2,5 @@
 - Fixed showing up on Asus Calibrate thingy in AsusParts
 - FP Alignments fixed
 - Misc opitmizations and changes under the hood
+- Fixed LS Charging Info
+- Fixed 3 Navbar Inverse Bug
