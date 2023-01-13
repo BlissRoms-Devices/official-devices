@@ -13,3 +13,4 @@ Device Changelog
 - Fixed USB Grey list via notification bar
 - Added AsusParts 
 - Added Touch Gestures Support
+- Bottom USB Port is now default (Bootloader will still require side port)
