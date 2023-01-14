@@ -1,7 +1,7 @@
-Overkernel upstreamed to 4.14.301
-Update UI optimization
-App optimization
-Changed some overlay strings
-Fixed issues with Always On Display
-Added Always On Display animations
-Add SmartPixels support
+Date: 11-12-2022
+- Overkernel upstreamed to 4.14.301
+- Update UI optimization
+- App optimization
+- Changed some overlay strings
+- Fixed issues with Always On Display
+- Added Always On Display animations
