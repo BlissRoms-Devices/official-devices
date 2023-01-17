@@ -1,21 +1,9 @@
-NextKernel Upstreamed to 4.19.268
-Enable suspend to RAM 
-Drop hifi support 
-Set bluetooth.device.default_name to 'Poco F3'
-Fix persist.vendor.radio.mbn_cdma dir
-Tune Adaptive Suspend parameters 
-Enable AutoHBM service on BootCompleted
-Update pinner configuration 
-Improvements on gps
-added some props for smooth scrolling and better responsiveness
-Added 150Mhz support 
-add MCC 470 complete support
-Don't boost top-app when screen is off 
-Don't send QoS request during launch
-Disable prefer_idle when screen goes off
-Fixup io_percent default value 
-Set prefer_high_cap on TA tasks during launch
-Disable adsprpcd 
-Remove TxPower2g and 5g from config file 
-Decrease top-app schedtune boost
-Import 32bit adsp/cdsp default listener libs 
+Rebased the entire NextKernel to Project Nexus
+Update more blobs from 13.0.8.0
+Set default refresh rate to 120Hz
+Set BOARD_USES_ADRENO to true
+Updated MiuiCamera to LeicaCamera 
+Switch to Vulkan UI renderer 
+Drop libhidl
+Update CarrierConfig from LA.QSSI.13.0.r1-07400-qssi.0
+
