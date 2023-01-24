@@ -1,3 +1,3 @@
-First stable android 12 build.
-Gapps inbuilt fw not inbuilt use latest.
-Tweaks in Powerhint by Varun. 
+﻿﻿• Improved charging speed
+﻿﻿• Updated radio to v1.5 (Sim enable disable option is unlocked now)
+﻿﻿• Shipping with latest Azure kernel
