@@ -1,3 +1,52 @@
-﻿﻿• Improved charging speed
-﻿﻿• Updated radio to v1.5 (Sim enable disable option is unlocked now)
-﻿﻿• Shipping with latest Azure kernel
+ use common_full_phone.mk
+ cleanup
+ update dependencies
+ move to sepolicy_vndr-legacy-um
+ sepolicy address duplicate entry for genfs
+ cleanup unused/dead targets
+ Build crDroid
+ Correct partition sizes
+ Include Moto Calculator
+ Update blobs to LA.UM.9.1.r1-11500.02-SMxxx0.QSSI12.0
+ overlay: Enable world phone bool
+ props: Don't write binary XML files
+ overlay: Tune vibration pattern
+ parts: Make HelpDialogFragment class public
+ Add two channels for echo referece
+ overlay: wifidisplay: Disable protected buffers support
+ Implement keyhandler for fingerprint shutter
+ Redirect keycode 96 to CAMERA
+ overlay: remove charging LED colors
+ Include Matlog
+ Address MiuiCamera denials
+ Allow overriding duplicate targets
+ Include MiuiCamera
+ Pin modified thermal-engine-normal.conf
+ manifest: Uprev radio to v1.5
+ overlay: Enable call recording
+ init: power: Disable switching to s2idle
+ Remove IO read_ahead_kb tune
+ init: Do not collect I/O statistics on runtime
+ rootdir: configstore is disabled
+ rootdir: Drop loading non-existent service
+ init: Remove unused tcp property change actions
+ rootdir: Remove unnecessary QTI logkit directories
+ libqti-perfd-client: Move to C
+ libqti-perfd-client: Remove namespace declaration
+ libqti-perfd-client: return a dummy value
+ Drop unused power and light HIDL hals
+ power-libperfmgr: Remove dumpstate support
+ power-libperfmgr: Properly handle sustained performance mode
+ Switch to prebuilt kernel
+ Unset DEXPREOPT_GENERATE_APEX_IMAGE
+ Enable PRODUCT_FS_COMPRESSION
+ Set arch variant to armv8-2a-dotprod
+ BoardConfig: Set CPU variant to Cortex-a55
+ BoardConfig: Set arch variant to armv8-2a
+ BoardConfig: Remove no-op display HDR & WCG
+ BoardConfig: Drop graphics layer memory buffer
+  Specify LZ4 as F2FS Compression algorithm
+ fstab: set readahead_size_kb=128 to partitions
+ rootdir: Remove deprecated max comp streams
+ rootdir: Set Zram size to 50%
+ rootdir: Set max_comp_streams to 4
