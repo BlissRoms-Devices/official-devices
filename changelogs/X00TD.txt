@@ -1,8 +1,5 @@
 • Improve Stability
 
-• Welcome Back ZenParts
-
-
 Notes :- 
 • Report Device Side Bugs
 
