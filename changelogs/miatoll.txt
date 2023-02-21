@@ -1,2 +1,10 @@
-Initial Build
+Updated DPM blobs from lemonadep
+Clean up useless log spams
+Disabled alpha compositing in WM 
+Removed Provider Model flag property for T 
+Optimized package manager dexopt properties 
+Updated WFD system stack from lemonadep
+Added offline charging LED indicator
+Miui Camera module is now fully functional
+Misc. changes
 Fbev1 Encryption
