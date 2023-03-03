@@ -1,6 +1,7 @@
-- Merged January Security Patches
+- Merged February Security Patches
 - Fixed showing up on Asus Calibrate thingy in AsusParts
 - FP Alignments fixed
 - Misc opitmizations and changes under the hood
+- Introduce Safailnet to pass CTS
 - Fixed LS Charging Info
 - Fixed 3 Navbar Inverse Bug
