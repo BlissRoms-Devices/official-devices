@@ -231,6 +231,17 @@
       ]
    },
    {
+      "brand": "Oneplus",
+      "codename": "instantnoodlep",
+      "name": "8 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Freesoul00",
+            "support_thread": "https://t.me/freesoulsgroup"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "lemonadep",
       "name": "9 Pro",
