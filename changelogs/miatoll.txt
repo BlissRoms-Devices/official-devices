@@ -1,10 +1,9 @@
-Updated DPM blobs from lemonadep
-Clean up useless log spams
-Disabled alpha compositing in WM 
-Removed Provider Model flag property for T 
-Optimized package manager dexopt properties 
-Updated WFD system stack from lemonadep
-Added offline charging LED indicator
-Miui Camera module is now fully functional
-Misc. changes
+Removed RenderScript implementation 
+Hopefully carrier video calling should be fixed
+Imported new audio configuration from cosmic's tree
+Merged CLO Tag "LA.UM.9.1.r1-13100-SMxxx0.QSSI13.0" into kernel 
+Misc. overlay changes
 Fbev1 Encryption
+Use latest Orangfox fbev1 stable recovery to flash 
+
+Note: You might face bootloop on dirty flash so must backup your important data before flashing
