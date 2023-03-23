@@ -1,0 +1,4 @@
+- Initial Build
+- Sync to last Bliss Source
+- Kernel: Introduce to Stellaris Kernel thanks to @Dawfuk (https://t.me/Dawfuk) for his work
+- Bump kernel with aosp clang 17.0.0 toolchain
