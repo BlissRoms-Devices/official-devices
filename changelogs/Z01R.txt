@@ -1,2 +1,6 @@
-- Bliss 16.2 with Nov'22 SP (Android 13)
-- Enforcing and Decrypted Build (Thanks Marc)
+- Bliss 16.5 based on Feb SP
+- A11 style QS
+- App Lock
+- Parallel Space
+- Dynamic VoLTE and VoWiFi icons
+and much more... 
