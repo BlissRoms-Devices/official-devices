@@ -1,6 +1,7 @@
 Device Changelog
+- Added support for 5G Carriers
+- Updated RIL stack from CAF
 - Fixed Grey Tint issue on UDFPS
-- Upstreamed kernel to .157
 - Selinux Enforcing
 - Fixed Camera Viewfinder freeze on enforcing
 - Battery LED Customizations
@@ -9,11 +10,8 @@ Device Changelog
 - Clean CAF implementations
 - Fixed Signal lost on second boot
 - Fixed Mic issues
-- Misc Improvements
-- Added UDFPS Icon and Animations
 - Fixed USB Grey list via notification bar
-- Added AsusParts 
-- Added Touch Gestures Support
 - Bottom USB Port is now default (Bootloader will still require side port)
 - Fixed LS Charging Info
 - Fixed 3 Navbar Inverse Bug
+- Misc Improvements
