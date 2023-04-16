@@ -1,8 +1,6 @@
  Device Changelog
-- Add support UDFPS on AOD
-- Supress harmless denials
-- Fix compliation for QPR1 merge
-- Clean up overlays
-- Define AAPT configuration
-- Move libhidl shim to hardware/lineage/compat
-- Upstream immensity kernel to 4.19.268
+- Add miuicamera
+- Update blobs from MIUI-14.0.1.0.SJKMIXM
+- Upstream immensity kernel to 4.19.279
+- Update Display and Graphics to LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Add missing audio policy & calibs from stock
