@@ -1,4 +1,6 @@
-- Bliss 15.6 with June SP (Android 12L) and several new features and fixes 
-- Enforcing and Decrypted Build (Thanks Marc)
-- Add back FM Radio and LiveDisplay
-- Switch back to 4.9.292 Kernel (by Kailash)
+- Bliss 16.5 based on Feb SP
+- A11 style QS
+- App Lock
+- Parallel Space
+- Dynamic VoLTE and VoWiFi icons
+and much more... 

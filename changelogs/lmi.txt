@@ -1,4 +1,6 @@
  Device Changelog
-- Initial Android 13 release
-- Added DC Dimming
-- Updated immenisty kernel 4.19.261
+- Add miuicamera
+- Update blobs from MIUI-14.0.1.0.SJKMIXM
+- Upstream immensity kernel to 4.19.279
+- Update Display and Graphics to LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
+- Add missing audio policy & calibs from stock

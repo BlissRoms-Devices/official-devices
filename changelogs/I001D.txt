@@ -1,1 +1,5 @@
-- Initial Android 13 release
+- Merged February Security Patches
+- FP Alignments fixed
+- Misc opitmizations and changes under the hood
+- Introduce Safailnet to pass CTS
+- Revamped AsusParts UI to match Material You A12 style

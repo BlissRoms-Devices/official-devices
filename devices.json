@@ -132,6 +132,39 @@
       ]
    },
    {
+      "brand": "Google",
+      "codename": "oriole",
+      "name": "Pixel 6",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "raven",
+      "name": "Pixel 6 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "bluejay",
+      "name": "Pixel 6a",
+      "supported_versions": [
+         {
+            "maintainer_name": "stebomurkn420",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "oneplus3",
       "name": "3/3T",
@@ -160,7 +193,7 @@
       "supported_versions": [
          {
             "maintainer_name": "srgrusso",
-            "support_thread": "https://forum.xda-developers.com/t/rom-official-a12-gapps-blissroms-15-x-fajita.4440423/"
+            "support_thread": "https://forum.xda-developers.com/t/rom-official-a12-gapps-blissroms-16-x-fajita.4510773/"
          }
       ]
    },
@@ -194,6 +227,17 @@
          {
             "maintainer_name": "EvilVenom",
             "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Oneplus",
+      "codename": "instantnoodlep",
+      "name": "8 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Freesoul00",
+            "support_thread": "https://t.me/freesoulsgroup"
          }
       ]
    },
@@ -276,11 +320,11 @@
    {
       "brand": "Xiaomi",
       "codename": "pyxis",
-      "name": "Mi 9 Lite/Mi CC9 Meitu",
+      "name": "Mi 9 Lite | Mi CC9 | Mi CC9 Meitu Edition",
       "supported_versions": [
          {
-            "maintainer_name": "NaassomDourado",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Naassom Dourado",
+            "support_thread": "https://t.me/romhubnd"
          }
       ]
    },
@@ -291,18 +335,18 @@
       "supported_versions": [
          {
             "maintainer_name": "Magicxavi",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "support_thread": "https://t.me/syberia_laurel_sprout"
          }
       ]
    },
    {
       "brand": "Xiaomi",
-      "codename": "juice",
+      "codename": "chime",
       "name": "POCO M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G",
       "supported_versions": [
          {
-            "maintainer_name": "darkpewds",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Ayan",
+            "support_thread": "https://t.me/ayanot69"
          }
       ]
    },
@@ -334,8 +378,8 @@
       "name": "Poco F3 / Redmi K40 / Mi 11X",
       "supported_versions": [
          {
-            "maintainer_name": "Reza Bagas Rifaldy",
-            "support_thread": "https://t.me/GengKapakAlioth"
+            "maintainer_name": "Dark_Phoenix",
+            "support_thread": "https://t.me/spsalioth"
          }
       ]
    },
@@ -411,7 +455,7 @@
       "name": "Redmi Note 7 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "omdouxx9951",
+            "maintainer_name": "Jash Vakharia (brucetech)",
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
@@ -444,8 +488,8 @@
       "name": "Redmi Note 9S/9 Pro/Pro Max/POCO M2 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "ScaryMen1325",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "SwapnilVicky",
+            "support_thread": "https://t.me/LOS_Miatoll"
          }
       ]
    },
@@ -468,6 +512,17 @@
          {
             "maintainer_name": "GamingGhost",
             "support_thread": "https://t.me/BlissRomsVince"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "begonia",
+      "name": "Redmi Note 8 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "overlang",
+            "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
    }

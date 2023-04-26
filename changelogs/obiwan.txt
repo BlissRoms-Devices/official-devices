@@ -1,8 +1,17 @@
 Device Changelog
-- Adapted source to Android 13
+- Added support for 5G Carriers
+- Updated RIL stack from CAF
+- Fixed Grey Tint issue on UDFPS
+- Selinux Enforcing
+- Fixed Camera Viewfinder freeze on enforcing
+- Battery LED Customizations
+- Refresh Rate Control
 - Removed all Asus unwanted stuff that is not supported on AOSP
 - Clean CAF implementations
 - Fixed Signal lost on second boot
 - Fixed Mic issues
+- Fixed USB Grey list via notification bar
+- Bottom USB Port is now default (Bootloader will still require side port)
+- Fixed LS Charging Info
+- Fixed 3 Navbar Inverse Bug
 - Misc Improvements
-- Added UDFPS Icon and Animations

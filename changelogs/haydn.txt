@@ -6,3 +6,8 @@
 3. Update rounded corners
 4. Update blobs
 5. Doze changes
+=================================================================================================
+[01-11-2022]
+1. Initial Build
+2. MiuiCamera included
+3. 108 mp and macro mode not working

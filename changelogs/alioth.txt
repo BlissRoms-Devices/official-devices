@@ -1,1 +1,22 @@
-Initial Android 13 release
+Changelogs:
+
+- Intial Official release
+- Updated blobs from 14.0.7.0 
+- Enabled Qualcomm Truewireless and TWS+ feature 
+- Add advanced_sf_offsets configuration
+- Toggle Display Has HDR
+- Rework mi_thermals sepolicy 
+- Fix path for msm-irqbalance config file
+- enable VoLTE and VoWIFI support for Movistar
+- Many more underhood changes 
+
+ Note:
+ 
+- Changing any settings in Leica/Miui camera might break front video   recording, clear cam app data to fix it.
+- in case your earphones are not working disable HIFI sound option from "Settings/Sound & Vibration/Dirac sound Enhancer"
+
+Credits:
+
+- @NextWorksGFX, @johnmart19 & @StudioKeys for all help :).
+- @EmanuelCN0 For Kernel
+- @Devsaee For testing 

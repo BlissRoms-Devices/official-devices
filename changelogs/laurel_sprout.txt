@@ -1,0 +1,3 @@
+31 Jan 2023:
+* Fixed Encryption (now aes256)
+* Fixed padding for charging lockscreen info

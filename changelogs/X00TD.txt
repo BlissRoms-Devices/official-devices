@@ -1,3 +1,8 @@
-• Added ZenParts Again 
+• Improve Stability
 
-• Improved Stability
+Notes :- 
+• Report Device Side Bugs
+
+• Don't Report Source Issues report those in Bliss Official group
+
+• Use NLV kernel for working Vibration Control in ZenParts
