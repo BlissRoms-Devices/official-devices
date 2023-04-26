@@ -1,3 +1,8 @@
+26/04/2023:
+- Added option to hide notch
+- Enabled system blurs
+- Added fully working ANX Cam
+
 26/10/2022:
 - Increased maximum allowed brightness from 455nits to 495nits
 - Added support for changing "Minimum Refresh Rate" (Settings -> Display)
