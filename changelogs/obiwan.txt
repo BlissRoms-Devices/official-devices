@@ -1,5 +1,6 @@
 Device Changelog
 - Added support for 5G Carriers
+- Removed unwanted Network Type selection options
 - Updated RIL stack from CAF
 - Fixed Grey Tint issue on UDFPS
 - Selinux Enforcing
