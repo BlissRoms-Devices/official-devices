@@ -66,6 +66,17 @@
       ]
    },
    {
+      "brand": "Asus",
+      "codename": "AI2202",
+      "name": "Zenfone 9",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jackeagle",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "Google",
       "codename": "sargo",
       "name": "Pixel 3A",

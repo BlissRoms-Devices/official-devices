@@ -1,0 +1,9 @@
+Device Changelog
+- Initial BlissRoms Android 13 Release
+- Added support for 5G Carriers
+- Removed unwanted Network Type selection options
+- Selinux Enforcing
+- Refresh Rate Control
+- Removed all Asus unwanted stuff that is not supported on AOSP
+- Added Double Tap to Wake Gesture
+- Misc Improvements
