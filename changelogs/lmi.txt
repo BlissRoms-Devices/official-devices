@@ -1,4 +1,5 @@
  Device Changelog
+- Sync to last Bliss Source
 - Add miuicamera
 - Update blobs from MIUI-14.0.1.0.SJKMIXM
 - Upstream immensity kernel to 4.19.279
