@@ -176,6 +176,17 @@
       ]
    },
    {
+      "brand": "Nothing",
+      "codename": "Spacewar",
+      "name": "Nothing Phone 1",
+      "supported_versions": [
+         {
+            "maintainer_name": "AyanC1",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "oneplus3",
       "name": "3/3T",
