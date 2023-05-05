@@ -1,22 +1,26 @@
 Changelogs:
 
-- Intial Official release
-- Updated blobs from 14.0.7.0 
-- Enabled Qualcomm Truewireless and TWS+ feature 
-- Add advanced_sf_offsets configuration
-- Toggle Display Has HDR
-- Rework mi_thermals sepolicy 
-- Fix path for msm-irqbalance config file
-- enable VoLTE and VoWIFI support for Movistar
-- Many more underhood changes 
+- Allow all filesystems for USB-OTG
+- Move thermal profiles to init stage
+-Import Thermal Service & thermal config from Miui Alioth 14.0.7.0 EU
+- switch to aosp clang 17
+- Switch to jemalloc for libc
+- Add thermal profiles tile 
+- Enable ro.hwui.render_ahead and fix its value
+- Rework thermal environment rules
+- Force device to treat 170M as sRGB in SF
+- Adapt pocket mode to S 
+- Enable AOSP surfaceflinger 
+-  update blobs from 14.0.7.0EU
+- and many more changes too lazy to write
 
  Note:
  
-- Changing any settings in Leica/Miui camera might break front video   recording, clear cam app data to fix it.
+- If you face miui front cam not working enable HDR on always https://t.me/spsalioth/45666/51957  -- (Thanks to @ShaM0NG for helping in this)
 - in case your earphones are not working disable HIFI sound option from "Settings/Sound & Vibration/Dirac sound Enhancer"
 
 Credits:
 
 - @NextWorksGFX, @johnmart19 & @StudioKeys for all help :).
 - @EmanuelCN0 For Kernel
-- @Devsaee For testing 
+- @ShaM0NG For testing 
