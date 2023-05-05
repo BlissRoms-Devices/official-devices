@@ -1,7 +1,2 @@
-Overkernel upstreamed to 4.14.301
-Update UI optimization
-App optimization
-Changed some overlay strings
-Fixed issues with Always On Display
-Added Always On Display animations
-Add SmartPixels support
+-Kernel switched to Next
+-Intial build
