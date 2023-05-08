@@ -78,6 +78,17 @@
    },
    {
       "brand": "Google",
+      "codename": "taimen",
+      "name": "Pixel 2 XL",
+      "supported_versions": [
+         {
+            "maintainer_name": "nitin1438",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
       "codename": "sargo",
       "name": "Pixel 3A",
       "supported_versions": [
