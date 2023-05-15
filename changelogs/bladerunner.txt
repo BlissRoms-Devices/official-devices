@@ -1,0 +1,3 @@
+Device Changelog
+- Initial BlissRoms Android 13 Release
+- Selinux Enforcing
