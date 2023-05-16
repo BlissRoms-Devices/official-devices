@@ -1,18 +1,15 @@
 Device Changelog
+- Fixed Turning on WiFi would turn off Hotspot and Vice-versa
+- Fixed SIM2 No Audio on Call Speaker Mode
+- AsusParts Improvements
+- Switched to completely new CAF Based Kernel
+- Fixed Front Camera Freeze / Not working on ROG 3 12GB Variants
+- Improved Kernel response time
+- Merged with latest CAF Release TAG
 - Added support for 5G Carriers
 - Removed unwanted Network Type selection options
 - Updated RIL stack from CAF
-- Fixed Grey Tint issue on UDFPS
 - Selinux Enforcing
 - Fixed Camera Viewfinder freeze on enforcing
-- Battery LED Customizations
-- Refresh Rate Control
-- Removed all Asus unwanted stuff that is not supported on AOSP
-- Clean CAF implementations
-- Fixed Signal lost on second boot
-- Fixed Mic issues
-- Fixed USB Grey list via notification bar
 - Bottom USB Port is now default (Bootloader will still require side port)
-- Fixed LS Charging Info
-- Fixed 3 Navbar Inverse Bug
 - Misc Improvements
