@@ -111,6 +111,17 @@
    },
    {
       "brand": "Google",
+      "codename": "flame",
+      "name": "Pixel 4",
+      "supported_versions": [
+         {
+            "maintainer_name": "REV3NT3CH",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
       "codename": "coral",
       "name": "Pixel 4 XL",
       "supported_versions": [
