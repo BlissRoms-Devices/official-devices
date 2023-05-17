@@ -1,8 +1,1 @@
-- Bliss v16.3 Android 13.0 Release
-- Updated with latest Bliss Sources
-- January patch build
-- Oneplus Dolby included
-- Switched to Sleepy Kernel(latest)
-- Added Touch Improvement sysprops
-- Droped Smooth Display and Added min/max refreshrate config
-- Compiled with clang-16 branch
+- Device re-added, so initial build
