@@ -329,6 +329,17 @@
       ]
    },
    {
+      "brand": "Realme",
+      "codename": "bladerunner_48m",
+      "name": "X50 Pro Player",
+      "supported_versions": [
+         {
+            "maintainer_name": "Sreelekshman",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "Samsung",
       "codename": "crownlte",
       "name": "Galaxy Note 9",
