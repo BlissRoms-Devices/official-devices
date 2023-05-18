@@ -1,5 +1,6 @@
-- Merged February Security Patches
+- Merged May Security Patches
 - FP Alignments fixed
 - Misc opitmizations and changes under the hood
 - Introduce Safailnet to pass CTS
 - Revamped AsusParts UI to match Material You A12 style
+- Fix DRM issues for good
