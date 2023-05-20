@@ -1,34 +1,14 @@
-Switched to common Xiaomi light AIDL
-Switched to common Xiaomi fingerprint HIDL
-Switched to AIDL power hal
-Removed aptX(HD) encoder shared libs
-Don't inherit updatable_apex.mk
-Build QTI vibrator from source
-Updated USB controller configuration
-Imported excluded-input-devices.xml
-Removed AUDIO_FEATURE_ENABLED_PROXY_DEVICE flag
-Flatten APEXs for performance
-Inherit several Android Go configurations
-Update media codecs from V13.0.2.0.SJZMIXM
-Disabled ART debug and optimized dexpreopt
-Do se Bhale Ek - Decommanized Tree
-Fixed low mic volume in third party apps
-Enable LTE_CA workaround  
-Set LTE+ threshold bandwidth to 0 
-Update blobs from V14.0.3.0.SJZMIXM (joyeuse) 
-Separated notification and ringtone volumes 
-Removed unused 32bit camera libraries 
-Removed unused 32bit RIL libraries 
-Redefine bluetooth a2dp offload capabilities 
-Added radio props to improve battery life 
-Moved Dex2oat props to system.prop 
-Fbev1 Encryption
-Improved Haptics
-
-Merged clo tag 'LA.UM.9.1.r1-13400-SMxxx0.QSSI12.0' into kernel
-Upstremed kernel to 4.14.312
-Merged tag 'v1.0.20220627' of net/wireguard into kernel
-Silenced some log spams in kernel
+Disabled FRP
+Label extcon node
+Dropped QTI Thermal Hal
+Removed redundant props
+Label more graphics nodes
+Dropped Disabled UBWC flag
+Switched to AOSP Wifi Display
+Update DPM blobs from MIUI 14
+Update app/sf durations from MIUI
+Enable apk fs-verity 
+Misc. Device tree changes
 
 recommended recovery = latest orangefox fbev1 stable release
 recommended fw = A11 or whatever is stable for you
