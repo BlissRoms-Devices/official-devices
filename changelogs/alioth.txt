@@ -1,26 +1,48 @@
-Changelogs:
+# Changelogs:
 
-- Allow all filesystems for USB-OTG
-- Move thermal profiles to init stage
--Import Thermal Service & thermal config from Miui Alioth 14.0.7.0 EU
-- switch to aosp clang 17
-- Switch to jemalloc for libc
-- Add thermal profiles tile 
-- Enable ro.hwui.render_ahead and fix its value
-- Rework thermal environment rules
-- Force device to treat 170M as sRGB in SF
-- Adapt pocket mode to S 
-- Enable AOSP surfaceflinger 
--  update blobs from 14.0.7.0EU
-- and many more changes too lazy to write
+- Add blkio tuning from sunfish
+- Dolby: Update Permissions
+- Disable QTI perf lock usage in camera HAL
+- fixup! value for debug.sf.enable_egl_image_tracker
+- Enable debug.sf.hw 
+- default color mode to automatic
+- Overlays: add vendor-defined color mode as well
+- Enable debug.sf.hw 
+- Import LDAC and LHDC prebuilts
+- Enable LZ4 compression for ramdisks 
+- Rework DC dimming completely  
+- Disable debug.sf.latch_unsignaled
+- Set max active modem count 
+- Remove hints for Adaptive Battery CPU Throttling 
+- Update wifi configs from MIUI 14
 
- Note:
- 
-- If you face miui front cam not working enable HDR on always https://t.me/spsalioth/45666/51957  -- (Thanks to @ShaM0NG for helping in this)
-- in case your earphones are not working disable HIFI sound option from "Settings/Sound & Vibration/Dirac sound Enhancer"
-
-Credits:
+# Credits:
 
 - @NextWorksGFX, @johnmart19 & @StudioKeys for all help :).
 - @EmanuelCN0 For Kernel
-- @ShaM0NG For testing 
+- @@Devsaee @Petrei For testing 
+
+# Clean flash:
+- Download the ROM
+- Be in regional stock MiUi ROM  (not mandatory unless you are using any other miui port roms )
+- Boot to A13 compatible recovery
+- Flash Rom with auto recovery flash turned on
+- Flash latest firmware (Skip if you already have it)
+- Reboot to recovery
+- Format data
+- Reboot to system
+ 
+# Updating to a newer build (dirty flash):
+- Download the ROM
+- Boot to Recovery
+- Flash latest build with auto recovery flash turned on
+- Reboot to recovery
+- Flash newer firmware if available
+- Flash Magisk if you flashed it before
+- Reboot to system
+
+# Notes:
+- Support may not be given if you flash DFE, Other kernel, External Gapps on top of builds that include Gapps, Magisk and mods such as optimizers and tweakers(Those don't work anyway)
+- before dirty flashing Check Release notes in case dirty flashing isn't supported over a specific build
+- Removed Micam/Lecia Cam for this release it will be added back by next release.
+- in case your earphones are not working disable HIFI sound option from "Settings/Sound & Vibration/Dirac sound Enhancer"
