@@ -15,7 +15,7 @@
 - Set max active modem count 
 - Remove hints for Adaptive Battery CPU Throttling 
 - Update wifi configs from MIUI 14
-- Added Kernel SU Support 
+
 
 # Credits:
 
@@ -25,7 +25,7 @@
 
 # Clean flash:
 - Download the ROM
-- Be in regional stock MiUi ROM  (not mandatory unless you are using any other miui port roms )
+- Be in regional stock MIUI ROM  (not mandatory unless you are using any other miui port roms )
 - Boot to A13 compatible recovery
 - Flash Rom with auto recovery flash turned on
 - Flash latest firmware (Skip if you already have it)
@@ -44,7 +44,7 @@
 
 # Notes:
 - Support may not be given if you flash DFE, Other kernel, External Gapps on top of builds that include Gapps, Magisk and mods such as optimizers and tweakers(Those don't work anyway)
-- before dirty flashing Check Release notes in case dirty flashing isn't supported over a specific build
+- Before dirty flashing Check Release notes in case dirty flashing isn't supported over a specific build
 - Removed Micam/Lecia Cam for this release it will be added back by next release.
 - in case your earphones are not working disable HIFI sound option from "Settings/Sound & Vibration/Dirac sound Enhancer"
 
