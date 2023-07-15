@@ -198,6 +198,17 @@
       ]
    },
    {
+      "brand": "Motorola",
+      "codename": "amogus",
+      "name": "G8 Family",
+      "supported_versions": [
+         {
+            "maintainer_name": "Bcrichster",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
       "brand": "Nothing",
       "codename": "Spacewar",
       "name": "Phone 1",
