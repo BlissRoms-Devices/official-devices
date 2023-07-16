@@ -1,15 +1,15 @@
-Disabled FRP
-Label extcon node
-Dropped QTI Thermal Hal
-Removed redundant props
-Label more graphics nodes
-Dropped Disabled UBWC flag
-Switched to AOSP Wifi Display
-Update DPM blobs from MIUI 14
-Update app/sf durations from MIUI
-Enable apk fs-verity 
-Misc. Device tree changes
+Improved vibration
+Removed useless props
+Disabled zram writeback
+Fixed broken NFC in joyeuse
+Switched to FBEv2 encryption
+Merged latest CAF tags in Kernel
+Updated blobs from V14.0.3.0.SJZMIXM
+Overall increased stability, smoothness and fixed minor bugs
+Switched to AOSP-Clang 17.0.0 to compile kernel for better optimisation
 
-recommended recovery = latest orangefox fbev1 stable release
+recommended recovery = TWRP FBEv2 or OrangeFox FBEv2
 recommended fw = A11 or whatever is stable for you
-can be dirty flashed over previous build but clean flash recommended 
+recommended gapps = whatever suits you 
+
+CLEAN FLASH IS MANDATORY DUE TO CHANGE IN ENCRYPTION TYPE
