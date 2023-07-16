@@ -1,2 +1,3 @@
-- Passes Safetynet by default
-- Enabled QuickTap feature
+- Updated blobs to July SP Release
+- Updated Kernel source
+- Misc Fixes and Improvements
