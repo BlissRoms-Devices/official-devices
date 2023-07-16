@@ -1,13 +1,15 @@
 Device Changelog
-- Picked fingerprint_pressed_icon from stock, fixes fingerprint sensor issues for all users
-- Optimize native executables for cortex-a76 CPU
-- Switch to armv&-2a-dotprod arch
-- Added SuperDart Charging overlay
-- Adapt for Aux Cameras in Aperture Cam
-- Fixed sound delay in games
-- Added support for force LTE CA
-- Updated common blobs from RMX3370_11.F.05
-- Updated radio and ims system blobs from LA.QSSI.13.0.r1-09700-qssi.0
-- Patch camera.qcom.so instead of com.qti.chi.override.so
-- Use libcamera_metadata_shim for unlocking cameras
-- And other minor fixes
+- Switch to Motorola Dolby Service
+- Tune values for dolby from Oneplus 9 Pro
+- Kang Statusbar related changes from Avicii (fixing cropped statusbar in landscape view)
+- Switch to new upstreamed kernel 'Kraken-2.0'
+- Enable post processing for voice call
+- Use 24bit packet format for audio
+- Enable burn in protection
+- Extend audio offload buffer size to 256kb
+- Tweak auto brightness values
+- Kang thermal-engine from LA.UM.9.12.r1-14100-SMxx50.0
+- Use a custom thermal-engine config
+- Move background cpuset to CPU0-1
+- Move OPlusExtras into system settings
+- And some minor cleanup and improvement
