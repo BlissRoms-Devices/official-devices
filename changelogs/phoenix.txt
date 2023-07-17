@@ -1,3 +1,6 @@
+17/07/2023:
+- Removed ANX cam
+
 17/05/2023:
 - Switched to Redcliff kernel
 
