@@ -1,15 +1,6 @@
 Device Changelog
+- Fixed Wide Angle, Macro Mode Options on Aperture Camera App
+- Moved AsusParts to Settings -> System
 - Fixed Turning on WiFi would turn off Hotspot and Vice-versa
-- Fixed SIM2 No Audio on Call Speaker Mode
-- AsusParts Improvements
-- Switched to completely new CAF Based Kernel
-- Fixed Front Camera Freeze / Not working on ROG 3 12GB Variants
-- Improved Kernel response time
-- Merged with latest CAF Release TAG
-- Added support for 5G Carriers
-- Removed unwanted Network Type selection options
-- Updated RIL stack from CAF
-- Selinux Enforcing
-- Fixed Camera Viewfinder freeze on enforcing
 - Bottom USB Port is now default (Bootloader will still require side port)
 - Misc Improvements
