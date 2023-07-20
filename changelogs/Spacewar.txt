@@ -4,7 +4,7 @@
 [17-05-2023]
 1. Fix fingerprint icons and animations in settings -> Lockscreen
 ================================================================================================
-[20-05-2023]
+[20-07-2023]
 1. Fix string which now shows me as the maintainer
 2. Update the blobs to version 1.5.5
 3. Use old icons as default.
