@@ -1,7 +1,5 @@
- Device Changelog
+Device Changelog - MIUI-14.0.1.0.SJKMIXM firmware required.
+Included miuicamera
 - Sync to last Bliss Source
-- Add miuicamera
-- Update blobs from MIUI-14.0.1.0.SJKMIXM
-- Upstream immensity kernel to 4.19.279
-- Update Display and Graphics to LA.UM.9.12.r1-15100-SMxx50.QSSI13.0
-- Add missing audio policy & calibs from stock
+- Upstream immensity kernel to 4.19.288
+- Misc Improvements
