@@ -1,4 +1,5 @@
-- Merged May Security Patches
+- AsusParts moved to Settings -> System
+- Cleaned up sepolicy
 - Completely source built vendor
 - Selinux Enforced
 - Fixed SDCard Mount issues
