@@ -1,6 +1,3 @@
-- Bliss 16.5 based on Feb SP
-- A11 style QS
-- App Lock
-- Parallel Space
-- Dynamic VoLTE and VoWiFi icons
-and much more... 
+- Bliss 16.8 based on July SP
+- Latest rom sync
+- Kek
