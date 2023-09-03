@@ -1,15 +1,27 @@
-Improved vibration
-Removed useless props
-Disabled zram writeback
-Fixed broken NFC in joyeuse
-Switched to FBEv2 encryption
-Merged latest CAF tags in Kernel
-Updated blobs from V14.0.3.0.SJZMIXM
-Overall increased stability, smoothness and fixed minor bugs
-Switched to AOSP-Clang 17.0.0 to compile kernel for better optimisation
+Date - 03/09/2023
+=================
 
-recommended recovery = TWRP FBEv2 or OrangeFox FBEv2
+Optimise Dex flags
+Disabled redir_party_num
+Build some more camera libs
+Moved DPM props to /system_ext
+Build Xiaomi sensors Multi-HAL
+Guard crashing thermal 2.0 hal
+Switched to clang 17.0.3.0
+Switched to source built perf HAL
+Moved perf configs to device tree
+Kernel: Merged latest CLO tags 
+Included Stock Miui Camera by Alex
+Fixed app opening & closing lag
+Added vendor prefix to rmt_storage
+Fixed fingerprint wake-up animation
+Cleanup zram and battery supply sepolicy
+Updated DPM blobs from V14.0.3.0.TJUMIXM
+Updated Adreno blobs from V14.0.3.0.TJUMIXM
+Address some sepolicy denials & Fixed wakeup labels
+
+recommended recovery = TWRP FBEv2 
 recommended fw = A11 or whatever is stable for you
-recommended gapps = whatever suits you 
+recommended Gapps = whatever suits you 
 
-CLEAN FLASH IS MANDATORY DUE TO CHANGE IN ENCRYPTION TYPE
+Can be dirty flashed over previous update
