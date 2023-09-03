@@ -1,6 +1,7 @@
-- Merged July Security Patches
+- Merged August Security Patches
 - SELinux Enforced
 - Fixed FBE fully
 - FP Alignments fixed
 - Misc optimizations and changes under the hood
 - Revamped AsusParts UI to match Material You A12 style
+- Fixed booting on all variants of R2
