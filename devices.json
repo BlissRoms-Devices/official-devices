@@ -604,14 +604,3 @@
       ]
    }
 ]
-{
-      "brand": "Samsung",
-      "codename": "a70q",
-      "name": "Samsung Galaxy A70",
-      "supported_versions": [
-         {
-            "maintainer_name": "DynamicPanda",
-            "support_thread": "https://t.me/Team_Bliss_Community"
-         }
-      ]
-   },
