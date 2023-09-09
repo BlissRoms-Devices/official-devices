@@ -1,9 +1,5 @@
-* Merged July Patch
-* Enable QuickTap
-* Enable UDFPS Animations (pressed color won't work)
-* Blobs cleanup
-* Thermal config from OOS
-* Improved statusbar dimensions
-* Enable Qualcomm TrueWireless™ Stereo 
-* Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0
-* Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0
+BlissRoms 16.9 for avicii! 
+
+[09.09.23]
+
+- Initial official build
