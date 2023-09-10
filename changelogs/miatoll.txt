@@ -1,3 +1,20 @@
+=================
+Date - 09/09/2023
+=================
+
+Enabled Night Light & Extra Dim in Display Settings
+Suppress CamX debug
+Fixed denial at untrusted_app
+wifi: Add another interface while driver load
+kernel: some minor changes
+
+recommended recovery = TWRP FBEv2 
+recommended fw = A11 or whatever is stable for you
+recommended Gapps = NikGapps core
+
+Can be dirty flashed over previous update
+
+=================
 Date - 03/09/2023
 =================
 
