@@ -602,9 +602,8 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
-   }
-]
-{
+   },
+   {
       "brand": "Samsung",
       "codename": "a70q",
       "name": "Samsung Galaxy A70",
@@ -614,4 +613,5 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
-   },
+   }
+]
