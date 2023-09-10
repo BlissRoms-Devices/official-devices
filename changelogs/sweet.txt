@@ -1,3 +1,6 @@
+10/09/2023:
+- Added Mi Dolby (thanks to @Pulkit077)
+
 23/07/2023:
 - Switched to @Pulkit077's trees and kernel
 - Added back refresh rate settings
