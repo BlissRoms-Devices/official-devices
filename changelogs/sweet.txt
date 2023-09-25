@@ -1,3 +1,6 @@
+24/09/2023:
+- Enabled system blurs
+
 10/09/2023:
 - Added Mi Dolby (thanks to @Pulkit077)
 
