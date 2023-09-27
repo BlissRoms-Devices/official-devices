@@ -1,4 +1,19 @@
 =================
+Date - 27/09/2023
+=================
+
+Drop custom APM flag
+Added Notch Bar Killer overlay
+Fixed Trace Error
+Lower Background apps to 38
+
+recommended recovery = TWRP FBEv2 
+recommended fw = A11 or whatever is stable for you
+recommended Gapps = NikGapps core
+
+Can be dirty flashed over previous update
+
+=================
 Date - 09/09/2023
 =================
 
