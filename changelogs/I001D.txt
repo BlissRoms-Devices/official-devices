@@ -1,4 +1,4 @@
-- Merged August Security Patches
+- Merged September Security Patches
 - SELinux Enforced
 - Fixed FBE fully
 - FP Alignments fixed
