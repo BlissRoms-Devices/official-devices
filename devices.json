@@ -606,7 +606,7 @@
    {
       "brand": "Samsung",
       "codename": "a70q",
-      "name": "Samsung Galaxy A70",
+      "name": "Galaxy A70",
       "supported_versions": [
          {
             "maintainer_name": "DynamicPanda",
