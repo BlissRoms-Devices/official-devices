@@ -1,4 +1,27 @@
 =================
+Date - 25/10/2023
+=================
+
+Cleanup rootdir
+Removed npu boot
+Switched audio HAL to v7.1
+Includes Stock MIUI Camera
+Adjust msm_irqbalance prio
+Uprev radio config into 1.2
+Fixed BOARD_FLASH_BLOCK_SIZE
+sepolicy: Label read_ahead_kb
+Disabled clean Bluetooth turn on
+wifi: Disable RX wakelock feature
+sepolicy: Label UFS discard_max_bytes
+QCOM implementation for audio effects
+Import app launch boost changes from MIUI
+
+recommended recovery = TWRP FBEv2 
+recommended fw = A11 or whatever is stable for you
+recommended Gapps = NikGapps core
+Can be dirty flashed over previous update
+
+=================
 Date - 27/09/2023
 =================
 
@@ -10,50 +33,5 @@ Lower Background apps to 38
 recommended recovery = TWRP FBEv2 
 recommended fw = A11 or whatever is stable for you
 recommended Gapps = NikGapps core
-
-Can be dirty flashed over previous update
-
-=================
-Date - 09/09/2023
-=================
-
-Enabled Night Light & Extra Dim in Display Settings
-Suppress CamX debug
-Fixed denial at untrusted_app
-wifi: Add another interface while driver load
-kernel: some minor changes
-
-recommended recovery = TWRP FBEv2 
-recommended fw = A11 or whatever is stable for you
-recommended Gapps = NikGapps core
-
-Can be dirty flashed over previous update
-
-=================
-Date - 03/09/2023
-=================
-
-Optimise Dex flags
-Disabled redir_party_num
-Build some more camera libs
-Moved DPM props to /system_ext
-Build Xiaomi sensors Multi-HAL
-Guard crashing thermal 2.0 hal
-Switched to clang 17.0.3.0
-Switched to source built perf HAL
-Moved perf configs to device tree
-Kernel: Merged latest CLO tags 
-Included Stock Miui Camera by Alex
-Fixed app opening & closing lag
-Added vendor prefix to rmt_storage
-Fixed fingerprint wake-up animation
-Cleanup zram and battery supply sepolicy
-Updated DPM blobs from V14.0.3.0.TJUMIXM
-Updated Adreno blobs from V14.0.3.0.TJUMIXM
-Address some sepolicy denials & Fixed wakeup labels
-
-recommended recovery = TWRP FBEv2 
-recommended fw = A11 or whatever is stable for you
-recommended Gapps = whatever suits you 
 
 Can be dirty flashed over previous update
