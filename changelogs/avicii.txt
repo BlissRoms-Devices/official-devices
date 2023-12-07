@@ -1,5 +1,8 @@
-BlissRoms 16.9 for avicii! 
+BlissRoms 16.9.3 for avicii! 
 
-[09.09.23]
+[08.12.23]
 
-- Initial official build
+- Syncronised with the latest sources
+- Fix issues with OnePlus Extras
+
+* I will work on Android 14 for sure, but I lack time due to my hectic post-graduate routine. What I want to push in the next build is that it should come with more bug fixes and hopefully with OOS Cam.
