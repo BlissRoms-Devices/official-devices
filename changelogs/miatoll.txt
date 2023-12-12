@@ -1,37 +1,25 @@
 =================
-Date - 25/10/2023
+Date - 11/12/2023
 =================
 
-Cleanup rootdir
-Removed npu boot
-Switched audio HAL to v7.1
-Includes Stock MIUI Camera
-Adjust msm_irqbalance prio
-Uprev radio config into 1.2
-Fixed BOARD_FLASH_BLOCK_SIZE
-sepolicy: Label read_ahead_kb
-Disabled clean Bluetooth turn on
-wifi: Disable RX wakelock feature
-sepolicy: Label UFS discard_max_bytes
-QCOM implementation for audio effects
-Import app launch boost changes from MIUI
+Changelog:
+• Initial Android 14 
 
-recommended recovery = TWRP FBEv2 
-recommended fw = A11 or whatever is stable for you
-recommended Gapps = NikGapps core
-Can be dirty flashed over previous update
+Gapps Build include these packages:
+• Carrier Services
+• Calculator
+• Clock
+• Contacts
+• Dialer
+• Messaging
+• Digital Wellbeing
+• Drive
+• Maps
+• Photos
+• Search
+• SetupWizard
+• Turbo
 
-=================
-Date - 27/09/2023
-=================
-
-Drop custom APM flag
-Added Notch Bar Killer overlay
-Fixed Trace Error
-Lower Background apps to 38
-
-recommended recovery = TWRP FBEv2 
-recommended fw = A11 or whatever is stable for you
-recommended Gapps = NikGapps core
-
-Can be dirty flashed over previous update
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
