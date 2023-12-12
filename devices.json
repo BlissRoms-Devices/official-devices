@@ -331,18 +331,7 @@
    {
       "brand": "Realme",
       "codename": "bladerunner",
-      "name": "X50 Pro 5G",
-      "supported_versions": [
-         {
-            "maintainer_name": "Sreelekshman",
-            "support_thread": "https://t.me/blissbladerunner"
-         }
-      ]
-   },
-   {
-      "brand": "Realme",
-      "codename": "bladerunner_48m",
-      "name": "X50 Pro Player",
+      "name": "X50 Pro 5G / X50 Pro Player",
       "supported_versions": [
          {
             "maintainer_name": "Sreelekshman",
