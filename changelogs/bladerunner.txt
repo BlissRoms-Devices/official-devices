@@ -1,6 +1,19 @@
+*Important Note*
+This is a unified build for RMX2076,RMX2075,RMX2071 and RMX2072
+From this build onwards X50 Pro 5G and X50 Pro Player will be having the same build under codename "bladerunner". There will be no separate build of "bladerunner_48m".
+
+Must use A14 Recovery with new data encryption related methods
+TWRP : 		https://t.me/RealmeX50Pro_Updates/252
+OrangeFox :	https://t.me/Alischatroom/1863
+
 Device Changelog
-- Added Smart Charging Support
-- Updated device specific blobs to RMX2076_11.F.14
-- Merged September 2023 ASB into kernel
-- Updated kernel to LA.UM.9.12.r1-15500-SMxx50.QSSI13.0 tag
-- Misc perf improvements
+- Initial A14 Release
+- Built with GMS Default packages
+- Added ViPERFX
+- Dropped dolby atmos
+- Use FUSE passthrough mode by default 
+- Add option to use fscompress for F2FS
+- Enable casefolding support on userdata
+- Use metadata_csum for /metadata
+- Enforce keymaster 4.1
+- Update proprietary blobs to RMX2076_11.F.16
