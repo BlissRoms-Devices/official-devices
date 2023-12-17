@@ -1,0 +1,12 @@
+=================
+Date - 17/12/2023
+=================
+
+Device Changelog:
+- Initial A14 and Official Build
+- User Build
+- Added Xiaomi Device Parts
+- Added K-Profiles
+- Upstream Kernel to 4.14.330 stable 
+- Update to mojito 12 MIUI V14.0.8.0.SKGMIXM
+- Other changes and improvements
