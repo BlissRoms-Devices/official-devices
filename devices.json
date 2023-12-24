@@ -2,7 +2,7 @@
    {
       "brand": "Asus",
       "codename": "I001D",
-      "name": "ROG 2",
+      "name": "ROG Phone II",
       "supported_versions": [
          {
             "maintainer_name": "StudioKeys, Jackeagle",
@@ -13,7 +13,7 @@
    {
       "brand": "Asus",
       "codename": "obiwan",
-      "name": "ROG 3",
+      "name": "ROG Phone 3",
       "supported_versions": [
          {
             "maintainer_name": "Jackeagle",
