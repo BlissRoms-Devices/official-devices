@@ -1,5 +1,3 @@
 Device Changelog - MIUI-14.0.1.0.SJKMIXM firmware required.
-Included miuicamera
-- Sync to last Bliss Source
-- Upstream immensity kernel to 4.19.288
-- Misc Improvements
+-Bliss 17 A14 inital release
+- Immensity 4.19.298
