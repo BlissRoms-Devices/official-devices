@@ -1,5 +1,6 @@
 22nd Jan 2024:
 - January 2024 ASB update
+- Update vibe effects 
 - Add per app thermal profiles
 - Update CarrierConfig from nothing phone 1
 - Fixed auto brightness
