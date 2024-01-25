@@ -1,4 +1,17 @@
 =================
+Date - 25/01/2024
+=================
+
+Changelog:
+• Upstreamed kernel to 4.14.336 [EOL]
+• Switched back to Basic Gapps [Includes only Play Store & Play Services]
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
+• Clean flash recommanded due to QPR 
+
+=================
 Date - 11/12/2023
 =================
 
