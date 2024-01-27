@@ -1,12 +1,12 @@
 =================
-Date - 17/12/2023
+Date - 27/01/2024
 =================
 
 Device Changelog:
-- Initial A14 and Official Build
-- User Build
-- Added Xiaomi Device Parts
-- Added K-Profiles
-- Upstream Kernel to 4.14.330 stable 
-- Update to mojito 12 MIUI V14.0.8.0.SKGMIXM
+- Include leica camera
+- Upstream Kernel to 4.14.336 stable (EOL)
+- Fix annonying pop-ups when Airplane mode is enabled or disabled
+- Enable HWC composition strategy prediction (fix app opening/closing lags after played game (tested on clash of clan) in A14)
+- Remove unused sepolicy
+- Improve lmkd behavior
 - Other changes and improvements
