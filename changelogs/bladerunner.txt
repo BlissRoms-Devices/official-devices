@@ -1,19 +1,12 @@
 *Important Note*
-This is a unified build for RMX2076,RMX2075,RMX2071 and RMX2072
-From this build onwards X50 Pro 5G and X50 Pro Player will be having the same build under codename "bladerunner". There will be no separate build of "bladerunner_48m".
+Clean Flash is mandatory because of QPR
 
-Must use A14 Recovery with new data encryption related methods
+Must use Latest A14 Recovery
 TWRP : 		https://t.me/RealmeX50Pro_Updates/252
-OrangeFox :	https://t.me/Alischatroom/1863
 
 Device Changelog
-- Initial A14 Release
-- Built with GMS Default packages
-- Added ViPERFX
-- Dropped dolby atmos
-- Use FUSE passthrough mode by default 
-- Add option to use fscompress for F2FS
-- Enable casefolding support on userdata
-- Use metadata_csum for /metadata
-- Enforce keymaster 4.1
-- Update proprietary blobs to RMX2076_11.F.16
+- Updated Adreno Drivers to v744.12
+- Added Smooth Display Toggle
+- Add support for OZO Audio
+- Updated Viper4Android to v0.6.2 and driver to v0.6.1
+- Merged January ASB to kernel
