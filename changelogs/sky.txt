@@ -1,3 +1,8 @@
+13th Feb 2024:
+- ram management tweaks
+- Feb 2024 ASB update
+- Included firmware by default
+
 22nd Jan 2024:
 - January 2024 ASB update
 - Update vibe effects 
