@@ -1,4 +1,17 @@
 =================
+Date - 12/02/2024
+=================
+
+Changelog:
+• Label some wakeup nodes
+• Switched back to Basic Gapps [Includes only Play Store & Play Services]
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
+• Can be dirty flashed over previous build
+
+=================
 Date - 25/01/2024
 =================
 
