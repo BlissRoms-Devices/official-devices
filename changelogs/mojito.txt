@@ -1,12 +1,7 @@
 =================
-Date - 27/01/2024
+Date - 17/02/2024
 =================
 
 Device Changelog:
-- Include leica camera
-- Upstream Kernel to 4.14.336 stable (EOL)
-- Fix annonying pop-ups when Airplane mode is enabled or disabled
-- Enable HWC composition strategy prediction (fix app opening/closing lags after played game (tested on clash of clan) in A14)
-- Remove unused sepolicy
-- Improve lmkd behavior
+- Improve leica camera
 - Other changes and improvements
