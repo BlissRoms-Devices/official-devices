@@ -1,15 +1,51 @@
-Improved vibration
-Removed useless props
-Disabled zram writeback
-Fixed broken NFC in joyeuse
-Switched to FBEv2 encryption
-Merged latest CAF tags in Kernel
-Updated blobs from V14.0.3.0.SJZMIXM
-Overall increased stability, smoothness and fixed minor bugs
-Switched to AOSP-Clang 17.0.0 to compile kernel for better optimisation
+=================
+Date - 12/02/2024
+=================
 
-recommended recovery = TWRP FBEv2 or OrangeFox FBEv2
-recommended fw = A11 or whatever is stable for you
-recommended gapps = whatever suits you 
+Changelog:
+• Label some wakeup nodes
+• Switched back to Basic Gapps [Includes only Play Store & Play Services]
 
-CLEAN FLASH IS MANDATORY DUE TO CHANGE IN ENCRYPTION TYPE
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
+• Can be dirty flashed over previous build
+
+=================
+Date - 25/01/2024
+=================
+
+Changelog:
+• Upstreamed kernel to 4.14.336 [EOL]
+• Switched back to Basic Gapps [Includes only Play Store & Play Services]
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
+• Clean flash recommanded due to QPR 
+
+=================
+Date - 11/12/2023
+=================
+
+Changelog:
+• Initial Android 14 
+
+Gapps Build include these packages:
+• Carrier Services
+• Calculator
+• Clock
+• Contacts
+• Dialer
+• Messaging
+• Digital Wellbeing
+• Drive
+• Maps
+• Photos
+• Search
+• SetupWizard
+• Turbo
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption

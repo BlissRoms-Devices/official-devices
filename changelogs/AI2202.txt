@@ -1,7 +1,9 @@
 Device Changelog
-- Some Network stack improvements
-- Fixed Power Button FP Touch goes back to Launcher Home
-- UI Improvements
+- Added System Wide Dirac Audio Support
+- Add Aux Camera Support
+- Add BT Audio Enhancements
+- Fixed more selinux denials
+- Updated all modules
 - Selinux Enforcing
 - Refresh Rate Control
 - Removed all Asus unwanted stuff that is not supported on AOSP

@@ -1,9 +1,8 @@
-* Merged July Patch
-* Enable QuickTap
-* Enable UDFPS Animations (pressed color won't work)
-* Blobs cleanup
-* Thermal config from OOS
-* Improved statusbar dimensions
-* Enable Qualcomm TrueWireless™ Stereo 
-* Update blobs from LA.UM.9.12.r1-14000.02-SMxx50.QSSI12.0
-* Update blobs from LA.UM.9.12.r1-14200.02-SMxx50.QSSI12.0
+BlissRoms 16.9.3 for avicii! 
+
+[08.12.23]
+
+- Syncronised with the latest sources
+- Fix issues with OnePlus Extras
+
+* I will work on Android 14 for sure, but I lack time due to my hectic post-graduate routine. What I want to push in the next build is that it should come with more bug fixes and hopefully with OOS Cam.

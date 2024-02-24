@@ -1,1 +1,12 @@
+24/09/2023:
+- Enabled system blurs
+
+10/09/2023:
+- Added Mi Dolby (thanks to @Pulkit077)
+
+23/07/2023:
+- Switched to @Pulkit077's trees and kernel
+- Added back refresh rate settings
+
+17/05/2023:
 - Device re-added, so initial build

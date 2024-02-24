@@ -1,0 +1,7 @@
+=================
+Date - 17/02/2024
+=================
+
+Device Changelog:
+- Improve leica camera
+- Other changes and improvements

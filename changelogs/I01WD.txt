@@ -1,4 +1,16 @@
-- Merged May Security Patches
+=================
+14-Feb-2024
+=================
+- Initial Android 14 Build
+- Added AsusParts
+- Kernel rebased over CLO
+- Disabled SIM is HD capable notification 
+
+=================
+01-Aug-2023
+=================
+- AsusParts moved to Settings -> System
+- Cleaned up sepolicy
 - Completely source built vendor
 - Selinux Enforced
 - Fixed SDCard Mount issues
