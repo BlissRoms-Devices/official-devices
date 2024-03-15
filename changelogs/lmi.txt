@@ -1,3 +1,6 @@
 Device Changelog - MIUI-14.0.1.0.SJKMIXM firmware required.
--Bliss 17 A14 inital release
-- Immensity 4.19.298
+-Bliss 17.3 update
+- Immensity 4.19.300
+- Screen off UDFPS toggle doesn't work 
+use screen off UDFPS
+adb shell settings put secure screen_off_udfps_enabled 1
