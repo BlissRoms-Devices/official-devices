@@ -613,5 +613,16 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "name": "Redmi 7A/8/8A/8A Dual",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jprimero15",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
    }
 ]
