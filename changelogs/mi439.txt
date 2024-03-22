@@ -1,0 +1,4 @@
+Device Changelogs
+
+- Initial A14 release
+- Switched to 4.19 kernel
