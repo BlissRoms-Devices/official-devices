@@ -1,4 +1,4 @@
-BlissROMs v17.1
-- Initial Android 14 Release
+BlissROMs v17.4
 - FBEv2 Encrypted
 - Included AsusParts
+- Ships with Viper4FX
