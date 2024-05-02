@@ -1,1 +1,1 @@
-Initial Bliss 17.x release
+Bliss 17.4 qpr2 update
