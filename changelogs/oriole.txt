@@ -1,1 +1,4 @@
-Initial Release
+BlissRoms v17.4
+- Merged April Patches on Device and Source
+- Includes PixelParts
+- Enabled UDFPS Animations
