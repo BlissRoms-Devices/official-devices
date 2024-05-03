@@ -1,4 +1,4 @@
-Device Changelogs
+BlissROMs v17.4
 
-- Initial A14 release
-- Switched to 4.19 kernel
+- April SPL Merged
+- Some DT and kernel changes.
