@@ -1,3 +1,8 @@
+5th May 2024:
+- Fixed NFC for all regions
+- Built USB Hal from source
+- Fixed Missing Fingerprint Option for some users.
+
 13th Feb 2024:
 - ram management tweaks
 - Feb 2024 ASB update
