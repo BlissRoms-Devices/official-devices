@@ -1,3 +1,6 @@
+v17.5: 15/05/2024:
+- Add support for limit charging option
+
 20/01/2024:
 - Fix NFC on Redmi K30 4G (China)
 - NOTE: Currently no MIUI Cam is included
