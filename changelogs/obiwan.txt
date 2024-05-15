@@ -1,6 +1,4 @@
 Device Changelog
-- Fixed Wide Angle, Macro Mode Options on Aperture Camera App
-- Moved AsusParts to Settings -> System
-- Fixed Turning on WiFi would turn off Hotspot and Vice-versa
-- Bottom USB Port is now default (Bootloader will still require side port)
+- Added Dolby Atmos Support
+- Fixed Hotspot issues
 - Misc Improvements

@@ -1,1 +1,26 @@
+=================
+Date - 15/03/2024
+=================
+- Bliss 17.3 release, some clean-ups
+
+=================
+27-Jan-2024
+=================
+- Initial A14 and Official Build
+- User Build
+- Rebased device, kernel & vendor trees on BananDroid (thanks to @asriadirahim)
+
+=================
+27-Sep-2023
+=================
+September 2023 security patch & ROM side changes
+
+=================
+19-Sep-2023
+=================
+August 2023 security patch & ROM side changes
+
+=================
+17-Jul-2023
+=================
 July 2023 security patch and much more...

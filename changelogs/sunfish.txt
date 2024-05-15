@@ -1,3 +1,1 @@
-- Update blobs to latest TQ3A.230705.001
-- Update kernel to latest release
-- Misc improvements
+Bliss 17.4 qpr2 update

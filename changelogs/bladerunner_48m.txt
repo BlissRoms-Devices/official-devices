@@ -1,3 +1,0 @@
-Device Changelog
-- Compiled the kernel with full LLVM
-- Improved system performance and stability

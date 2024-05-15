@@ -1,2 +1,18 @@
-- Initial Build for QPR3
-- Added Dolby and MiuiCamera
+Device Changelogs
+
+- Initial A14 release
+- Switch to Vulkan rendering
+- silence gl rendering logs
+- Add dolby volume listener
+- Introduce Dolby Atmos
+- Add Custom dolby & dirac logo
+- Fix SHA for IMS
+- Add keylayout file for headphone jack
+- Fix 24bit audio playback
+- Included MIUI/Lecia cam
+- Included Apk method For PIF
+- Spoof locked bootloader on local attestations
+
+Credits:
+- Thanks to @rvzaku , @EgLaTJ, @abugithub for testing all builds :)
+- Thanks to @Roxor007, @SharmagRit, @StudioKeys and @jack_android for help and fixes

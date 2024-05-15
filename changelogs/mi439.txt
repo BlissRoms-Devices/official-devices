@@ -1,0 +1,4 @@
+BlissROMs v17.4
+
+- April SPL Merged
+- Some DT and kernel changes.

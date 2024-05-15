@@ -2,7 +2,7 @@
    {
       "brand": "Asus",
       "codename": "I001D",
-      "name": "ROG 2",
+      "name": "ROG Phone II",
       "supported_versions": [
          {
             "maintainer_name": "StudioKeys, Jackeagle",
@@ -13,7 +13,7 @@
    {
       "brand": "Asus",
       "codename": "obiwan",
-      "name": "ROG 3",
+      "name": "ROG Phone 3",
       "supported_versions": [
          {
             "maintainer_name": "Jackeagle",
@@ -137,7 +137,7 @@
       "name": "Pixel 4A",
       "supported_versions": [
          {
-            "maintainer_name": "Jackeagle",
+            "maintainer_name": "srgrusso",
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
@@ -170,8 +170,8 @@
       "name": "Pixel 6",
       "supported_versions": [
          {
-            "maintainer_name": "stebomurkn420",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Stebomurkn420 x StudioKeys",
+            "support_thread": "https://t.me/NugTowersHQ"
          }
       ]
    },
@@ -181,8 +181,8 @@
       "name": "Pixel 6 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "stebomurkn420",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Stebomurkn420 x StudioKeys",
+            "support_thread": "https://t.me/NugTowersHQ"
          }
       ]
    },
@@ -192,8 +192,8 @@
       "name": "Pixel 6a",
       "supported_versions": [
          {
-            "maintainer_name": "stebomurkn420",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Stebomurkn420 x StudioKeys",
+            "support_thread": "https://t.me/NugTowersHQ"
          }
       ]
    },
@@ -204,7 +204,7 @@
       "supported_versions": [
          {
             "maintainer_name": "Bcrichster",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "support_thread": "https://t.me/MotoG8Official"
          }
       ]
    },
@@ -259,7 +259,7 @@
       "supported_versions": [
          {
             "maintainer_name": "srgrusso",
-            "support_thread": "https://forum.xda-developers.com/t/rom-official-a13-gapps-blissroms-16-x-guacamole.4509881/"
+            "support_thread": "https://xdaforums.com/t/rom-official-a14-gapps-blissroms-17-x-guacamole.4647440/"
          }
       ]
    },
@@ -303,7 +303,7 @@
       "supported_versions": [
          {
             "maintainer_name": "srgrusso",
-            "support_thread": "https://forum.xda-developers.com/t/rom-official-a13-gapps-oneplus-cam-blissroms-16-x-lemonadep.4509505/"
+            "support_thread": "https://xdaforums.com/t/rom-official-a14-gapps-blissroms-17-x-lemonadep.4647395/"
          }
       ]
    },   {
@@ -331,18 +331,7 @@
    {
       "brand": "Realme",
       "codename": "bladerunner",
-      "name": "X50 Pro 5G",
-      "supported_versions": [
-         {
-            "maintainer_name": "Sreelekshman",
-            "support_thread": "https://t.me/blissbladerunner"
-         }
-      ]
-   },
-   {
-      "brand": "Realme",
-      "codename": "bladerunner_48m",
-      "name": "X50 Pro Player",
+      "name": "X50 Pro 5G / X50 Pro Player",
       "supported_versions": [
          {
             "maintainer_name": "Sreelekshman",
@@ -455,7 +444,7 @@
       "name": "Poco F3 / Redmi K40 / Mi 11X",
       "supported_versions": [
          {
-            "maintainer_name": "RoXor-007, StudioKeys",
+            "maintainer_name": "Dark_Phoenix, StudioKeys",
             "support_thread": "https://t.me/spsalioth"
          }
       ]
@@ -499,8 +488,8 @@
       "name": "Redmi Note 10",
       "supported_versions": [
          {
-            "maintainer_name": "Royal_King_0",
-            "support_thread": "https://t.me/Team_Bliss_Community"
+            "maintainer_name": "Rom Bdr. Gharti",
+            "support_thread": "https://t.me/Rom_project"
          }
       ]
    },
@@ -599,6 +588,39 @@
       "supported_versions": [
          {
             "maintainer_name": "D2C0DER",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "sky",
+      "name": "Redmi 12 5g/Poco M6 Pro/ Redmi Note 12R",
+      "supported_versions": [
+         {
+            "maintainer_name": "Tushar Bharti",
+            "support_thread": "https://t.me/Lostark13Support"
+         }
+      ]
+   },
+   {
+      "brand": "Samsung",
+      "codename": "a70q",
+      "name": "Galaxy A70",
+      "supported_versions": [
+         {
+            "maintainer_name": "DynamicPanda",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "mi439",
+      "name": "Redmi 7A/8/8A/8A Dual",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jprimero15",
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]

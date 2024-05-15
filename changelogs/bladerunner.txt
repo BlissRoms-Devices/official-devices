@@ -1,3 +1,12 @@
+*Important Note*
+Clean Flash is mandatory because of QPR
+
+Must use Latest A14 Recovery
+TWRP : 		https://t.me/RealmeX50Pro_Updates/252
+
 Device Changelog
-- Compiled the kernel with full LLVM
-- Improved system performance and stability
+- Updated Adreno Drivers to v744.12
+- Added Smooth Display Toggle
+- Add support for OZO Audio
+- Updated Viper4Android to v0.6.2 and driver to v0.6.1
+- Merged January ASB to kernel
