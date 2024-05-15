@@ -1,4 +1,24 @@
 =================
+Date - 14/05/2024
+=================
+
+Changelog:
+• Fixed crashing Bluetooth
+• Enabled GL comp backpressure
+• Moved to QTI health AIDL service
+• Set debug.sf.auto_latch_unsignaled to 0
+• Removed config_cellBroadcastAppLinks overlay
+• Dropped dependencies of OSS display components
+• ueventd: Don't modify permissions of /dev/hw_random
+• Fixed dual sim preferance reset everytime when airplane mode is enabled ( need clean flash to take effect )
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption
+• Can be dirty flashed over previous build
+
+
+=================
 Date - 29/04/2024
 =================
 
