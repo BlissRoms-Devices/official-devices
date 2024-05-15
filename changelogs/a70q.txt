@@ -2,3 +2,6 @@ Initial Official Build
 ---16.9.1----
 update build
 noticible lag fix
+----17.5---
+changed from ext4 to f2fs
+used rebased trees, more stable (thanks to rtd1250)
