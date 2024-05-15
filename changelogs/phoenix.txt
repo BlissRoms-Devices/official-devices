@@ -1,5 +1,6 @@
 v17.5: 15/05/2024:
 - Add support for limit charging option
+- Use updated and upstreamed 4.14.316 Pure v1.1 kernel, built with Clang 17.0.2
 
 20/01/2024:
 - Fix NFC on Redmi K30 4G (China)
