@@ -1,20 +1,17 @@
 =================
-Date - 16/03/2024
+Date - 16/05/2024
 =================
 
 Device Changelog:
-- turn off compressed apex
-- wifi: Disable FW TWT
-- Sepolicy: Update Ultrasound sepolicy
-- Optimize auto brightness adjustment
-- CarrierConfig: Update from sweet_k6a OS1.0.2.0.THGMIXM
-- Fix IMS symlink as per dynamic partitions
-- WifiOverlay: Relax RSSI thresholds
-- rootdir: Set elliptic permissions for proximity sensor
-- rootdir: Remove duplicate cpusets runtime
-- Remove unneeded cmdline properties
-- Set allocstall_threshold on boot_complete
-- Remove max ZRAM compression streams setting
-- Enable again Dex/ART optimization
-- perf: Adjust IOP in perfconfigstore
-- Other changes and improvements
+- Switched to Anush's DTs
+- Drop Lecica cam (Due to QPR2)
+- Fixed play protect certified
+- Added Lineage health charging control
+- Used libpiex shim com.qti.node.watermark.so
+- Updated to Boot Control HAL v1.2
+- Removed unused NFC and Mlipay
+- Disabled zram writeback 
+- Improved Wifi configs 
+- Added missing QSEECOMD,liblocdiagiface.so library
+- FCM: Declare missing HALs entries
+- Other More changes and improvements
