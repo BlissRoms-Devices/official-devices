@@ -1,4 +1,13 @@
-Device Changelog
+====== BlissRoms v17.4 ========
 - Added Dolby Atmos Support
 - Fixed Hotspot issues
 - Misc Improvements
+===============================
+
+====== BlissRoms v17.5 ========
+- Added New Offline Charging Animation
+- Added Charging Control
+- Fixed UDFPS Enroll radius in Settings
+- Lots of improvments at init level
+- Misc Improvements
+===============================
