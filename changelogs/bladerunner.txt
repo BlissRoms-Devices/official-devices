@@ -5,8 +5,7 @@ Must use Latest A14 Recovery
 TWRP : 		https://t.me/RealmeX50Pro_Updates/252
 
 Device Changelog
-- Updated Adreno Drivers to v744.12
-- Added Smooth Display Toggle
-- Add support for OZO Audio
-- Updated Viper4Android to v0.6.2 and driver to v0.6.1
-- Merged January ASB to kernel
+- Enable LZ4 compression for ramdisks
+- Fix lockscreen charging info
+- Dropped OZO Audio
+- Move to QTI health AIDL service 
