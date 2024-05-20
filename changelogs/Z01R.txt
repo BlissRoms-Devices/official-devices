@@ -1,3 +1,2 @@
-- Bliss 16.9.1 based on  September SP
-- Latest rom sync
-- Kek
+====== BlissRoms v17.5 ======
+- Initial Release
