@@ -1,6 +1,10 @@
 Device Changelog - MIUI-14.0.1.0.SJKMIXM firmware required.
--Bliss 17.3 update
+-Bliss 17.5 update
 - Immensity 4.19.300
-- Screen off UDFPS toggle doesn't work 
-use screen off UDFPS
+- Screen off UDFPS doesn't work without using this command once.
+
 adb shell settings put secure screen_off_udfps_enabled 1
+
+- Included Miuicamera Leica v2.0
+When using the first time do not download automatically as this will make the camera crash.
+Turn off parallel processing in camera settings.
