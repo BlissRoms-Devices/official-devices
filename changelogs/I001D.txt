@@ -1,4 +1,9 @@
-BlissROMs v17.4
+BlissROMs v17.5
+- Signed Build
 - FBEv2 Encrypted
 - Included AsusParts
-- Ships with Viper4FX
+- Ships with Dolby Atmos
+- Switched Side Port to Primary
+- Addition of Lineage Health HAL for Charging Control
+- Migrated to QTI AIDL Health HAL for Offline Charging
+- Ton of misc fixes under the hood...
