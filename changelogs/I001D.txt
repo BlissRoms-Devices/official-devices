@@ -6,4 +6,5 @@ BlissROMs v17.5
 - Switched Side Port to Primary
 - Addition of Lineage Health HAL for Charging Control
 - Migrated to QTI AIDL Health HAL for Offline Charging
+- Fixes Audio not being able to control via volume panel
 - Ton of misc fixes under the hood...
