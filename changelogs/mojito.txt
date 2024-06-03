@@ -1,17 +1,15 @@
 =================
-Date - 16/05/2024
+Date - 02/06/2024
 =================
 
 Device Changelog:
-- Switched to Anush's DTs
-- Drop Lecica cam (Due to QPR2)
-- Fixed play protect certified
-- Added Lineage health charging control
-- Used libpiex shim com.qti.node.watermark.so
-- Updated to Boot Control HAL v1.2
-- Removed unused NFC and Mlipay
-- Disabled zram writeback 
-- Improved Wifi configs 
-- Added missing QSEECOMD,liblocdiagiface.so library
-- FCM: Declare missing HALs entries
+- Signed Build
+- Added FM
+- Uprev vendor.qti.hardware.bluetooth_audio to 2.1
+- Remove some camera-daemon commands
+- Disable serial console notification
+- Overlay: Disable NearbyMessagesService
+- Speed profile services and wifi-service to reduce RAM and storage
+- Rootdir: remove IO read_ahead_kb tune
+- Give proper permissions for /dev/diag
 - Other More changes and improvements
