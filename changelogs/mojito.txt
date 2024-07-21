@@ -1,15 +1,20 @@
 =================
-Date - 02/06/2024
+Date - 21/07/2024
 =================
 
 Device Changelog:
-- Signed Build
-- Added FM
-- Uprev vendor.qti.hardware.bluetooth_audio to 2.1
-- Remove some camera-daemon commands
-- Disable serial console notification
-- Overlay: Disable NearbyMessagesService
-- Speed profile services and wifi-service to reduce RAM and storage
-- Rootdir: remove IO read_ahead_kb tune
-- Give proper permissions for /dev/diag
+- Update blobs from qssi-user-12-SKQ1.210908.001-V14.0.9.0.SKGMIXM-release-keys
+- Added libraries for A14 QPR3
+- Fixed WFD 
+- Fixed QS scroll laggy when music playing
+- Drop soundtrigger HIDL impl
+- Move to common Xiaomi light AIDL
+- Convert libs as symlinks during extraction
+- Switch to prebuilt Camera Provider
+- Address sepolicy for MIUI camera
+- Added missing camera blobs
+- vintf: Added missing HALs in FCM for QPR3
+- sepolicy: Label missing sysfs wakeup nodes
+- Update Skia Tracing Properties
+- Import stock IRQ balance & Do not balance msm_drm and kgsl-3d0 IRQs
 - Other More changes and improvements
