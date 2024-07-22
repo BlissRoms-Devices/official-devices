@@ -5,3 +5,9 @@ noticible lag fix
 ----17.5---
 changed from ext4 to f2fs
 used rebased trees, more stable (thanks to rtd1250)
+----17.6----
+Initial QPR3 build
+added FCM
+set the target level of kernel to 5 and same for manifest level
+Droped sound trigger
+Dropped some depreciated hals from manifest.xml and fcm
