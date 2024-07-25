@@ -1,6 +1,8 @@
-====== BlissRoms v17.4 ========
-- Added Dolby Atmos Support
-- Fixed Hotspot issues
+====== BlissRoms v17.6 ========
+- Initial Build based on A14 QPR3
+- All-new kernel with the latest upstreams
+- Fixes endless color modes on Settings
+- Switched Gapps to Stock Variant
 - Misc Improvements
 ===============================
 
@@ -9,5 +11,11 @@
 - Added Charging Control
 - Fixed UDFPS Enroll radius in Settings
 - Lots of improvments at init level
+- Misc Improvements
+===============================
+
+====== BlissRoms v17.4 ========
+- Added Dolby Atmos Support
+- Fixed Hotspot issues
 - Misc Improvements
 ===============================
