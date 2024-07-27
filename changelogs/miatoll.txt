@@ -1,4 +1,21 @@
 =================
+Date - 25/07/2024
+=================
+
+Changelog:
+• Initial QPR3 build
+• Removed Misys blobs
+• Upgraded to QTI USB Gadget 1.2 HAL
+• Added DeviceAsWebcam (Thanks 0xCAFEBABE's Backports & clarencelol)
+• Changes to several blobs symlinks (EGL, IMS, WiFi)
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Can be dirty flashed over previous build, but Clean flash recommanded due to QPR3
+
+
+=================
 Date - 01/06/2024
 =================
 
