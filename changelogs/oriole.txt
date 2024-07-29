@@ -1,3 +1,9 @@
+BlissRoms v17.6
+- Initial QPR3 build
+- Bundles PixelParts
+- Switch to prebuilt kernel instead of inline
+- Merged July Patches on Device
+
 BlissRoms v17.4
 - Merged April Patches on Device and Source
 - Includes PixelParts
