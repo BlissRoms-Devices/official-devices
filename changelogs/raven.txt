@@ -1,1 +1,5 @@
-Initial Release
+BlissRoms v17.6
+- Initial QPR3 build
+- Bundles PixelParts
+- Switch to prebuilt kernel instead of inline
+- Merged July Patches on Device
