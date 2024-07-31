@@ -1,3 +1,9 @@
+BlissROMs v17.6
+- Both ports are now functional
+- Switch to QCOM WFD for now
+- Re-introduce DT2W
+- Misc fixes under the hood..
+
 BlissROMs v17.5
 - Signed Build
 - FBEv2 Encrypted
