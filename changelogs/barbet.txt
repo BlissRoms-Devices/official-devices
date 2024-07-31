@@ -1,3 +1,13 @@
+BlissRoms v17.6
+- Initial QPR3 build
+- Merged July SP Patches on Device
+- Misc improvements
+
+BlissRoms v17.5
+- Merged May 2024 SP Patches on Device
+- Misc improvements
+
+BlissRoms v17.4
 - Updated blobs to April 2024 SP Release
 - Updated Kernel source
 - Misc Fixes and Improvements
