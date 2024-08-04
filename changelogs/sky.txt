@@ -1,3 +1,12 @@
+4 August 2024:
+- Switched to oss display hal
+- build few media blobs from source
+- Added MiSound 
+- Properly set acdb for different regions ( fix low sound)
+- Update Carrier config from latest release
+- Blobs update from 816.0.5 IN
+- Switched to libperfmgr
+
 26th May 2024:
 - Update blobs from HyperOS 814.0.4 IN
 - Fixed FM
@@ -8,7 +17,7 @@
 - Fixed some performance issues
 
 
-5th May 2024:
+5th May 2024:-
 - Fixed NFC for all regions
 - Built USB Hal from source
 - Fixed Missing Fingerprint Option for some users.
