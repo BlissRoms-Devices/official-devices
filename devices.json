@@ -624,5 +624,16 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
+   },
+   {
+      "brand": "Google",
+      "codename": "panther",
+      "name": "Pixel 7",
+      "supported_versions": [
+         {
+            "maintainer_name": "Aryan Arora",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
    }
 ]
