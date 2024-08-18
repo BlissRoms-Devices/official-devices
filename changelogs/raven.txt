@@ -1,3 +1,9 @@
+BlissRoms v17.7
+- Merged August patches on device and source
+- Includes the latest 5.15 kernel from HentaiOS (Kudos to them for that)
+- Now Playing is now fully working and shows up on Lockscreen
+- Bundles PixelParts
+
 BlissRoms v17.6
 - Initial QPR3 build
 - Bundles PixelParts
