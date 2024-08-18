@@ -1,19 +1,5 @@
-[15-05-2023]
-1. Initial Build
-================================================================================================
-[17-05-2023]
-1. Fix fingerprint icons and animations in settings -> Lockscreen
-================================================================================================
-[20-07-2023]
-1. Fix string which now shows me as the maintainer
-2. Update the blobs to version 1.5.5
-3. Use old icons as default.
-4. Include Richtap for better vibration
-================================================================================================
-[24-02-2024]
-BLISS 17.2 A14
-1. Initial Build
-================================================================================================
-[15-03-2024]
-1. March Security Patch
-================================================================================================
+BlissROMs v17.7
+- Initial QPR3 build
+- Added PixysGlyph
+- Bundles Nothing Camera
+- Portrait Mode Broken
