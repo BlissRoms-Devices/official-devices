@@ -11,3 +11,6 @@ added FCM
 set the target level of kernel to 5 and same for manifest level
 Droped sound trigger
 Dropped some depreciated hals from manifest.xml and fcm
+------17.7----
+August SP
+Fixed flashbang while using fingerprint (thanks to rtd1250)
