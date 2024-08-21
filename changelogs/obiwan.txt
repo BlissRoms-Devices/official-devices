@@ -1,3 +1,10 @@
+====== BlissRoms v17.7 ========
+- Revert to the old kernel
+- Fixed Mic Issues
+- Fixed DT2W
+- Misc Improvements
+===============================
+
 ====== BlissRoms v17.6 ========
 - Initial Build based on A14 QPR3
 - All-new kernel with the latest upstreams
