@@ -1,20 +1,15 @@
 =================
-Date - 21/07/2024
+Date - 18/08/2024
 =================
 
 Device Changelog:
-- Update blobs from qssi-user-12-SKQ1.210908.001-V14.0.9.0.SKGMIXM-release-keys
-- Added libraries for A14 QPR3
-- Fixed WFD 
-- Fixed QS scroll laggy when music playing
-- Drop soundtrigger HIDL impl
-- Move to common Xiaomi light AIDL
-- Convert libs as symlinks during extraction
-- Switch to prebuilt Camera Provider
-- Address sepolicy for MIUI camera
-- Added missing camera blobs
-- vintf: Added missing HALs in FCM for QPR3
-- sepolicy: Label missing sysfs wakeup nodes
-- Update Skia Tracing Properties
-- Import stock IRQ balance & Do not balance msm_drm and kgsl-3d0 IRQs
+- Setup dalvik vm configs according to RAM variant
+- Fixed app open/close lags
+- Disable debug graphic flag props
+- Remove HWUI properties
+- Configure multi-file cache
+- Updated kernel to v4.14.350-openela
+- Backport f2fs driver from linux-5.15.y
+- Updated exfat driver from linux-exfat-oot
+- Merged CLO Tag LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
 - Other More changes and improvements
