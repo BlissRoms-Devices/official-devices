@@ -635,5 +635,16 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
+   },
+   {
+      "brand": "Google",
+      "codename": "cheetah",
+      "name": "Pixel 7 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Aryan Arora, Jackeagle",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
    }
 ]
