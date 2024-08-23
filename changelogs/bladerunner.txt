@@ -1,10 +1,5 @@
 *Important Note*
-Clean Flash is mandatory because of QPR
-OkGoogle is dead as of now. If audio is not working turn off Hey Google from Google app.
+Dropped OkGoogleHotword Packages (Fixed audio issue)
 
 Must use Latest A14 Recovery
 TWRP : 		https://t.me/RealmeX50Pro_Updates/252
-
-Device Changelog
-- Switched to stock gapps
-- ViperFX updated to v6.6
