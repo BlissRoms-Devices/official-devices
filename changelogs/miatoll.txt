@@ -1,4 +1,20 @@
 =================
+Date - 24 & 25/08/2024
+=================
+
+Changelog:
+• Removed software OMX blobs
+• Used AOSP default Codec2/OMX ranks
+• Removed software omx codec references
+• Checkout recovery init script from clo
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Can be dirty flashed over previous build
+
+
+=================
 Date - 25/07/2024
 =================
 
