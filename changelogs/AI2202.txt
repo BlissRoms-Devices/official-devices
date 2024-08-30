@@ -1,12 +1,6 @@
-Device Changelog
-- Added System Wide Dirac Audio Support
-- Add Aux Camera Support
-- Add BT Audio Enhancements
-- Fixed more selinux denials
-- Updated all modules
-- Selinux Enforcing
-- Refresh Rate Control
-- Removed all Asus unwanted stuff that is not supported on AOSP
-- Updated stack from latest Asus Release
-- Updated Kernel from latest release
-- Misc Improvements
+====== BlissRoms v17.7 ========
+- Updated stack from Asus Android 14 Firmware Release
+- Updated kernel from latest Android 14 release
+- Fixed Wifi issues
+- Misc Fixes and Improvements
+===============================
