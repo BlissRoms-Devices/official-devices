@@ -1,4 +1,18 @@
 =================
+Date - 17/09/2024
+=================
+
+Changelog:
+• Moved to Xiaomi IR AIDL
+• Enabled Smart Pixels
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Can be dirty flashed over previous build
+
+
+=================
 Date - 24 & 25/08/2024
 =================
 
