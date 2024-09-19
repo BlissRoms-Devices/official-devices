@@ -14,3 +14,8 @@ Dropped some depreciated hals from manifest.xml and fcm
 ------17.7----
 August SP
 Fixed flashbang while using fingerprint (thanks to rtd1250)
+
+------17.8-----
+synced with latest bliss sources
+saftey net passes by default
+misc imporvements
