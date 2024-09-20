@@ -1,3 +1,7 @@
+====== BlissRoms v17.8 ========
+- Misc Improvements
+===============================
+
 ====== BlissRoms v17.7 ========
 - Revert to the old kernel
 - Fixed Mic Issues
