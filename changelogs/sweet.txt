@@ -1,3 +1,7 @@
+21/09/2024 - Bliss v17.8:
+- Switch from dolby to JamesDSP
+- Allow additional lenses to be used in Aperture Camera app
+
 16/05/2024 - Bliss v17.5:
 - Fix limit charging control
 
