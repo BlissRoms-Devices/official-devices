@@ -1,3 +1,9 @@
+BlissROMs v17.8
+- Checkout to ParanoidGlyph from AOSPA and update to the latest Glyph from Pong.
+- Added Sony Dolby
+- Fixed Screen-off UDFPS
+- Fixed Portrait Mode on NTCamera
+
 BlissROMs v17.7
 - Initial QPR3 build
 - Added PixysGlyph
