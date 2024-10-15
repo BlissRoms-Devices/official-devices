@@ -1,4 +1,16 @@
 =================
+Date - 14/10/2024
+=================
+
+Changelog:
+• Merged Oct 2024 Security Patch 
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Can be dirty flashed over previous build
+
+=================
 Date - 17/09/2024
 =================
 
