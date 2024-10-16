@@ -1,22 +1,10 @@
 =================
-Date - 17/09/2024
+Date - 15/10/2024
 =================
 
 Device Changelog:
-- Switched to Stock Gapps
-- Upstream kernel to v4.14.352-openela
-- Fixed Sometime Screen not turn off 
-- Fixed doesn't turn off when turn off the phone with the power menu
-- Uprev fingerprint to 2.3 HAL
-- Set zramsize percentage to 75%
-- Add audio_tuning_mixer from Stock mojito V14.0.9
-- Remove software omx codec references
-- Set ro.surface_flinger.max_frame_buffer_acquired_buffers to 3
-- Use phase offsets as duration
-- Set debug.sf.layer_caching_active_layer_timeout_ms to 1000
-- Switched to to Xiaomi IR AIDL
-- Set swiotlb to default size
-- Remove unused dirac and dolby audio effects
-- Enforce fstab suffix to qcom
-- Remove non-existing codec
+- Upstream kernel to v4.14.353-openela
+- Fix IR remote service
+- Fix Dirac sound enhancer effect
+- Use common libqti-perfd-client and power-libperfmgr
 - Other More changes and improvements
