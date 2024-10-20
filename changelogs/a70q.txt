@@ -19,3 +19,9 @@ Fixed flashbang while using fingerprint (thanks to rtd1250)
 synced with latest bliss sources
 saftey net passes by default
 misc imporvements
+
+------17.8.1-----
+synced with latest bliss sources
+synced with latest lineage os device tree (thanks to rtd1250)
+switched to AIDL camera hal 
+added UW cam support
