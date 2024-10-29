@@ -646,5 +646,16 @@
             "support_thread": "https://t.me/EagleKeysROMs"
          }
       ]
+   },
+   {
+      "brand": "Google",
+      "codename": "shiba",
+      "name": "Pixel 8",
+      "supported_versions": [
+         {
+            "maintainer_name": "Babu Frik",
+            "support_thread": "https://t.me/Unofficial_X2"
+         }
+      ]
    }
 ]
