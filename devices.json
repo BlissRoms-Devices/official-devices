@@ -451,6 +451,17 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "peridot",
+      "name": "Poco F6 / Redmi Turbo 3",
+      "supported_versions": [
+         {
+            "maintainer_name": "SwapnilVicky",
+            "support_thread": "https://t.me/Blissful_PerryDot"
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "phoenix",
       "name": "Poco X2 / Redmi K30",
       "supported_versions": [

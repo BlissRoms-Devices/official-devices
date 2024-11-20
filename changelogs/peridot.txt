@@ -1,0 +1,7 @@
+=================
+Date - 20/11/2024
+=================
+Changelog:
+• Initial release
+• Includes MIUI Camera by default
+• Includes Dolby Atmos by default
