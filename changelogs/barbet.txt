@@ -1,3 +1,6 @@
+BlissRoms v18.0
+- Initial Release based off Android 15 (Voyager)
+
 BlissRoms v17.7
 - Merged Aug SP Patches on Device
 - Misc improvements
