@@ -1,3 +1,6 @@
+BlissRoms v18.0
+- Initial Release
+
 BlissRoms v17.7
 - Merged Aug SP Release changes
 - Updated vendor stack
