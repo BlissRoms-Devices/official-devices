@@ -1,3 +1,12 @@
+BlissROMs v18.0
+- Initial A15 release
+- Switch to Lineage Power HALs
+- Upstreamed kernel to latest AOSP tags
+- Includes NOS v2.6.0 - Nov blobs
+- Switch to AIDL USB HAL
+- Switched to AIDL UDFPS implementations
+
+
 BlissROMs v17.8
 - Checkout to ParanoidGlyph from AOSPA and update to the latest Glyph from Pong.
 - Added Sony Dolby
