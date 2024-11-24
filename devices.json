@@ -220,6 +220,17 @@
       ]
    },
    {
+      "brand": "Nothing",
+      "codename": "Pong",
+      "name": "Phone 2",
+      "supported_versions": [
+         {
+            "maintainer_name": "Drishal",
+            "support_thread": "https://t.me/DrishalDiscussion"
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "oneplus3",
       "name": "3/3T",

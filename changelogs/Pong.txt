@@ -1,0 +1,2 @@
+BlissROMs v18.0
+- Initial A15 build
