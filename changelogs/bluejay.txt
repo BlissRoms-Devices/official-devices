@@ -1,3 +1,8 @@
+BlissRoms v18.0
+- Initial A15 release
+- Merged November patches on device and source
+- Includes stock 5.10 kernel
+
 BlissRoms v17.7
 - Merged August patches on device and source
 - Includes the latest 5.15 kernel from HentaiOS (Kudos to them for that)
