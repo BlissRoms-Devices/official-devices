@@ -1,3 +1,11 @@
+25th Nov 2024:
+- Initial A15 release
+- Added LCD features
+- Fixed libperfmgr issue
+- Fixed SFPS location 
+- Build GNSS Hal from source
+- Misc perf improvements
+
 19th Sept 2024:
 - Blobs from 815.0.9 CN
 - Multiple interfaces blobs now built from source
