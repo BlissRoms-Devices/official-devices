@@ -1,5 +1,9 @@
-*Important Note*
-Dropped OkGoogleHotword Packages (Fixed audio issue)
+* Switched to AIDL USB hal
+* Add support for native 4K 60fps video recording
+* Upstreamed Kernel to v4.19.318
+* Kernel compiled with clang 18.0.1
+
+* Viper FX is included
 
 Must use Latest A14 Recovery
 TWRP : 		https://t.me/RealmeX50Pro_Updates/252
