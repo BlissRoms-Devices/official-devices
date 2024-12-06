@@ -1,4 +1,9 @@
 =================
+Date - 30/11/2024
+=================
+- First Android 15 release for taimen
+
+=================
 Date - 15/03/2024
 =================
 - Bliss 17.3 release, some clean-ups
