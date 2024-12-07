@@ -25,3 +25,8 @@ synced with latest bliss sources
 synced with latest lineage os device tree (thanks to rtd1250)
 switched to AIDL camera hal 
 added UW cam support
+
+------17.8.2-----
+synced with latest bliss sources
+fixed night light 
+added some smoothness tweaks
