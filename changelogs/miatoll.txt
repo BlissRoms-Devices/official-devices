@@ -1,4 +1,17 @@
 =================
+Date - 07/12/2024
+=================
+
+Changelog:
+• Initial Android 15 release
+• Includes MIUI Camera
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Clean Flash recommanded
+
+=================
 Date - 14/10/2024
 =================
 
