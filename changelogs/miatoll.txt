@@ -1,4 +1,18 @@
 =================
+Date - 18/12/2024
+=================
+
+Changelog:
+• Removed Force triple frame buffer
+• Synced Cpu freq. UP/DOWN rate limits with kernel
+• Enabled frame pacing for smoother visual performanance
+
+Notes:
+• Vanilla & Gapps Build Available
+• FBEv2 Encryption, use TWRP recovery 
+• Can be dirty flashed over previous build
+
+=================
 Date - 07/12/2024
 =================
 
