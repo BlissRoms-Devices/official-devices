@@ -1,2 +1,6 @@
+BlissROMs v18.1
+- Switch to armv9-a and kryo300 CPU variants
+- Improvements to system performance and stability 
+
 BlissROMs v18.0
 - Initial A15 build
