@@ -676,7 +676,18 @@
       "supported_versions": [
          {
             "maintainer_name": "Babu Frik",
-            "support_thread": "https://t.me/Unofficial_X2"
+            "support_thread": "https://t.me/Unofficial_X2/105801"
+         }
+      ]
+   },
+   {
+      "brand": "Google",
+      "codename": "husky",
+      "name": "Pixel 8 Pro v",
+      "supported_versions": [
+         {
+            "maintainer_name": "Babu Frik",
+            "support_thread": "https://t.me/Unofficial_X2/105801"
          }
       ]
    }
