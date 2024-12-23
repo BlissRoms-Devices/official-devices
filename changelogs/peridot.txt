@@ -1,4 +1,12 @@
 =================
+Date - 20/12/2024
+=================
+Changelog:
+• Initial A15 release
+• Includes MIUI Camera by default
+• Includes Dolby Atmos by default
+
+=================
 Date - 20/11/2024
 =================
 Changelog:
