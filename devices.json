@@ -363,6 +363,17 @@
    },
    {
       "brand": "Samsung",
+      "codename": "gts4lvwifi",
+      "name": "Galaxy Tab S5e",
+      "supported_versions": [
+         {
+            "maintainer_name": "srgrusso",
+            "support_thread": "https://t.me/srgrusso_roms"
+         }
+      ]
+   },
+   {
+      "brand": "Samsung",
       "codename": "starlte",
       "name": "Galaxy S9",
       "supported_versions": [
