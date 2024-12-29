@@ -1,0 +1,14 @@
+---------- Install Instructions ----------
+1. Reboot to bootloader
+2. fastboot flash boot boot.img && fastboot flash dtbo dtbo.img && fastboot flash init_boot init_boot.img && fastboot flash vendor_boot vendor_boot.img && fastboot flash vendor_kernel_boot vendor_kernel_boot.img && fastboot flash vbmeta vbmeta.img
+3. Reboot to recovery
+4. Install Update > ADB Sideload
+5. adb sideload rom_zip
+6. Install any additional addons if needed
+7. Reboot to bootloader
+8. Repeat ONLY Step #2
+9. Reboot to system
+
+----------- Changelog -----------
+v18.1 (2024-12-29):
+- Initial Build
