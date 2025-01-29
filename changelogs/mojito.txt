@@ -1,10 +1,15 @@
 =================
-Date - 15/10/2024
+Date - 29/01/2025
 =================
 
 Device Changelog:
-- Upstream kernel to v4.14.353-openela
-- Fix IR remote service
-- Fix Dirac sound enhancer effect
-- Use common libqti-perfd-client and power-libperfmgr
-- Other More changes and improvements
+- Upstream kernel to v4.14.355-openela
+- Move to Xiaomi fingerprint AIDL
+- Switch to QTI Memtrack AIDL HAL
+- Migrate sensor HAL to AIDL interface
+- Update display flags & packages
+- Switch to use.voice.path.for.pcm.voip
+- Sepolicy: Remove service_contexts vendor.qti.hardware.radio
+- Drop mock hidl power stats
+- Remove FRP
+- Other more changes and improvements
