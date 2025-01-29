@@ -1,3 +1,7 @@
+BlissROMs v18.2
+- Update to NOS V3.0-250113-1723 firmware
+- Improvements to system performance and stability 
+
 BlissROMs v18.1
 - Switch to armv9-a and kryo300 CPU variants
 - Improvements to system performance and stability 
