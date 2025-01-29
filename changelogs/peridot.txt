@@ -1,4 +1,12 @@
 =================
+Date - 29/01/2025
+=================
+Changelog:
+• January Security Patch.
+• Added High Touch Sampling Rate.
+• Enabled 4K 60FPS in MIUI Camera.
+
+=================
 Date - 20/12/2024
 =================
 Changelog:
