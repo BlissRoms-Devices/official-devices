@@ -1,3 +1,7 @@
+31st Jan 2025:
+- Set min idle refresh rate at 30Hz
+- Under the hood changes
+
 25th Nov 2024:
 - Initial A15 release
 - Added LCD features
