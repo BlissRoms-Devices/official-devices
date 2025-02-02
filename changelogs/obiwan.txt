@@ -1,3 +1,11 @@
+====== BlissRoms v18.2 ========
+- Kill off Dolby Implementations
+- Make Widevine alright
+- Switch to common lights HAL
+- Fix Lineage Health HAL to support both bypass charging and charge limiters
+- Misc Improvements
+===============================
+
 ====== BlissRoms v18.1 ========
 - Initial build based on Android 15 pre-QPR
 - Switched to new kernel based on LineageOS QCom Changes
