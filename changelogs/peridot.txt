@@ -1,4 +1,12 @@
 =================
+Date - 04/02/2025
+=================
+Changelog:
+• January Security Patch.
+• Fixed Pixel Pitch overlay.
+• Fixed mic issues in apps like WhatsApp.
+
+=================
 Date - 29/01/2025
 =================
 Changelog:
