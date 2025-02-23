@@ -659,6 +659,17 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "veux",
+      "name": "POCO X4 Pro / Redmi Note 11 Pro / 11 Pro + / 11E Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Frost",
+            "support_thread": "https://t.me/frosty_builds"
+         }
+      ]
+   },
+   {
       "brand": "Google",
       "codename": "panther",
       "name": "Pixel 7",
