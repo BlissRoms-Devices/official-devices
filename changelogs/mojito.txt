@@ -1,15 +1,28 @@
 =================
-Date - 29/01/2025
+Date - 25/02/2025
 =================
 
 Device Changelog:
-- Upstream kernel to v4.14.355-openela
-- Move to Xiaomi fingerprint AIDL
-- Switch to QTI Memtrack AIDL HAL
-- Migrate sensor HAL to AIDL interface
-- Update display flags & packages
-- Switch to use.voice.path.for.pcm.voip
-- Sepolicy: Remove service_contexts vendor.qti.hardware.radio
-- Drop mock hidl power stats
-- Remove FRP
+- Fixed volume steps control in voip calls (Messenger, WhatsApp)
+- Fixed QS lags when music player pause and play. 
+- Fixed sound in WFD (Wireless Display)
+- Fixed msm_drm and msm_kgsl_3d0 IRQs values
+- Bring back video recording 4k in back and 1080p in front
+- Fixed Freeform Window (sidebar)
+- Remove OMX codec
+- Target arm v8.2a and A55
+- Address sepolicy denials 
+- Disable minidebuginfo generation
+- Enable usage of dex2oat64
+- Restore I/O performance
+Kernel
+- Upstream kernel to v4.14.356-openela
+- Added 5.4 bpf backport
+- Added ZRAM_ENTROPY_THRESHOLD
+- Added sysctl knobs for protecting the working set
+- Introduce the Capacity Aware Superset Scheduler
+- Introduce SBalance IRQ balancer
+- Introduce BORE Scheduler (5.1.0)
+- Added Simple GPU Algorithm
+- Switch to 50HZ tickrate
 - Other more changes and improvements
