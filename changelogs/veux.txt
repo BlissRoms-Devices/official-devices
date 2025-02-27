@@ -1,0 +1,8 @@
+====== BlissRoms v18.3 ========
+- Initial official release.
+- Everything from my previous unofficial build.
+- Fixed display glitches while toggling Night Light On/Off, etc.
+- Fixed all modes in MIUI Camera.
+- Fixed Ambient Display brightness at 55%.
+- Comes with latest positron kernel.
+===============================
