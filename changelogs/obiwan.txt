@@ -1,3 +1,9 @@
+====== BlissRoms v18.3 ========
+- Bring back AsusParts and a better Dolby implementation as well
+- Attempted to fix WFD
+- Misc Improvements
+===============================
+
 ====== BlissRoms v18.2 ========
 - Kill off Dolby Implementations
 - Make Widevine alright
