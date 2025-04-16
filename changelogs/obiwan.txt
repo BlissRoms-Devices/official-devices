@@ -1,3 +1,12 @@
+====== BlissRoms v18.5 ========
+- Switch to AIDL USB HAL
+- Migrate to Clearkey DRM AIDL HAL
+- Switch to AIDL thermal HAL
+- Use AIDL sensors multihal
+- Import blobs from A12 .272 firmware
+- Misc Improvements
+===============================
+
 ====== BlissRoms v18.3 ========
 - Bring back AsusParts and a better Dolby implementation as well
 - Attempted to fix WFD
