@@ -1,3 +1,9 @@
+BlissROMs v18.5
+- Switch to Sony Dolby
+- Switch to kryo 785
+- Update vendor blobs to Pong_V3.0-250304-1717
+- Improvements to performance and system stability
+
 BlissROMs v18.2
 - Update to NOS V3.0-250113-1723 firmware
 - Improvements to system performance and stability 
