@@ -1,13 +1,17 @@
 =================
-Date - 19/04/2025
+Date - 04/06/2025
 =================
 
 Device Changelog:
-- Fixed serveral ELF check
-- Adapt DTs for A15 QPR2
-- Implement torch light control
-- Add missing dependencies
-- Update tetheroffload to version 1.1
-- Remove Simple GPU Algorithm
-- Switch to default 100HZ tickrate
+- Introduce GameBar v4 (available in app setting)
+- Fix CPU-L3 frequency
+- partially fixed bluetooth ringtone bug
+- Update libnotifyaudiohal for the proximity sensor wasn't working.
+- Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
+- Uprev audio HAL to V7
+- remove direct flag for VOIP RX
+- media: Update Codec2 configs
+- Migrate some ‎BoardConfig flag to soong_config_set
+- Remove unused overlay
+- overlay: Set default pin amount for home app
 - Other more changes and improvements
