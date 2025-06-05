@@ -1,3 +1,8 @@
+====== BlissRoms v18.6 ========
+- Enable usage of dex2oat64
+- Misc Improvements
+===============================
+
 ====== BlissRoms v18.5 ========
 - Switch to AIDL USB HAL
 - Migrate to Clearkey DRM AIDL HAL
