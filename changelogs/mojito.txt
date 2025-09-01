@@ -1,17 +1,8 @@
 =================
-Date - 04/06/2025
+Date - 31/08/2025
 =================
 
 Device Changelog:
-- Introduce GameBar v4 (available in app setting)
-- Fix CPU-L3 frequency
-- partially fixed bluetooth ringtone bug
-- Update libnotifyaudiohal for the proximity sensor wasn't working.
-- Enable Userfaultfd GC to improve memory management on 4GB RAM variant.
-- Uprev audio HAL to V7
-- remove direct flag for VOIP RX
-- media: Update Codec2 configs
-- Migrate some ‎BoardConfig flag to soong_config_set
-- Remove unused overlay
-- overlay: Set default pin amount for home app
+- parts: Move thermal profiles to system category
+- props: Disable backpressure propagation in SF
 - Other more changes and improvements
