@@ -3,6 +3,5 @@ Date - 31/08/2025
 =================
 
 Device Changelog:
-- parts: Move thermal profiles to system category
-- props: Disable backpressure propagation in SF
-- Other more changes and improvements
+- Initial build of A16.
+- Other more changes and improvements.
