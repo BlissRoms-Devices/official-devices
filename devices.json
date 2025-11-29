@@ -208,6 +208,17 @@
          }
       ]
    },
+      {
+      "brand": "Motorola",
+      "codename": "fogo",
+      "name": "Moto G 5G 2024",
+      "supported_versions": [
+         {
+            "maintainer_name": "Bcrichster",
+            "support_thread": "https://t.me/a_team_android"
+         }
+      ]
+   },
    {
       "brand": "Nothing",
       "codename": "Spacewar",
