@@ -1,7 +1,9 @@
 =================
-Date - 31/08/2025
+Date - 29/11/2025
 =================
-
+====== BlissRoms v19.1 ========
 Device Changelog:
 - Initial build of A16.
+- Fixed EIS video
+- Fixed lag when transitioning between menus, such as the Settings app
 - Other more changes and improvements.
