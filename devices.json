@@ -734,5 +734,16 @@
             "support_thread": "https://t.me/Unofficial_X2/105801"
          }
       ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "cupid",
+      "name": "Xiaomi 12",
+      "supported_versions": [
+         {
+            "maintainer_name": "n0201",
+            "support_thread": "https://t.me/BlissSupportCupid"
+         }
+      ]
    }
 ]
