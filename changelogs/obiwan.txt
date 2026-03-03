@@ -1,3 +1,9 @@
+====== BlissRoms v19.3 ========
+- Initial Android 16 QPR2-based Build
+- Updated to incorporate latest QCOM SM8250 Kernel from LineageOS
+- Enable blurs system-wide
+===============================
+
 ====== BlissRoms v19.1 ========
 - Initial Android 16-based Build
 ===============================
@@ -70,4 +76,5 @@
 - Fixed Hotspot issues
 - Misc Improvements
 ===============================
+
 
