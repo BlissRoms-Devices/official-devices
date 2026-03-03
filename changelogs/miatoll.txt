@@ -1,4 +1,16 @@
 =================
+Date - 03/03/2026
+=================
+
+Changelog:
+• Initial Android 16 QPR2 release
+
+Notes:
+• Vanilla Build Available
+• FBEv2 Encryption
+
+
+=================
 Date - 18/12/2024
 =================
 
