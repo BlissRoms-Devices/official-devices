@@ -1,9 +1,10 @@
 =================
-Date - 29/11/2025
+Date - 09/03/2026
 =================
-====== BlissRoms v19.1 ========
+====== BlissRoms v19.3 ========
 Device Changelog:
-- Initial build of A16.
-- Fixed EIS video
-- Fixed lag when transitioning between menus, such as the Settings app
+- QPR2 build
+- Adjust override prop key names
+- Patch some blobs to depend on libtinyxml2-v34.so
+- Address Bluetooth sepolicy denials
 - Other more changes and improvements.
