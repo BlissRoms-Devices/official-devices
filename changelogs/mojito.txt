@@ -1,10 +1,8 @@
 =================
-Date - 09/03/2026
+Date - 30/03/2026
 =================
-====== BlissRoms v19.3 ========
+====== BlissRoms v19.4 ========
 Device Changelog:
-- QPR2 build
-- Adjust override prop key names
-- Patch some blobs to depend on libtinyxml2-v34.so
-- Address Bluetooth sepolicy denials
+- Fixed soft reboot.
+- Included Lecia cam.
 - Other more changes and improvements.
