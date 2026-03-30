@@ -1,0 +1,18 @@
+====== BlissRoms v19.4 ========
+- raphael: Spoof ro.product.mod_device to raphael_global for Leica
+- raphael: Sync gpu freq. with kernel
+- raphael: Tune powerhint
+- raphael: Enable ART optimization
+- sm8150-common: rootdir: Add "system" group to Audio HAL
+- sm8150-common: rootdir: Optimize for Spatial Audio
+- sm8150-common: rootdir: Enable RT priority inheritance
+- sm8150-common: rootdir: add context_hub into audio hal group
+- sm8150-common: Drop TARGET_DISABLED_UBWC
+- sm8150-common: Set camera override format from reserved via soong config
+- sm8150-common: keylayout: sm8150-tavil-snd-card: label more volume up/down keys
+- Revert "sm8150-common: Switch to NCM USB tethering"
+===============================
+
+====== BlissRoms v19.3 ========
+- Initial Android 16 QPR2-based Build
+===============================
