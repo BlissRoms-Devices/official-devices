@@ -1,3 +1,13 @@
+====== BlissRoms v19.4 ========
+- Added Fast Charging Configs
+- Enable Qualcomm TrueWireless Stereo
+- Removed blurs entirely
+- Increase Vol. Steps to 20
+- Enable Battery Cycle Count
+- Fix absolute battery levels on recovery
+- Changes to inherit GApps from source
+===============================
+
 ====== BlissRoms v19.3 ========
 - Initial Android 16 QPR2-based Build
 ===============================
