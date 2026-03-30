@@ -1,10 +1,18 @@
 =================
-Date - 04/03/2026
+Date - 29/03/2026
 =================
 
 Device Changelog:
-- Initial official build.
-- Updated blobs and fw from OS3.0.5.0.WOLMIXM
-- Added Dolby Atmos support.
-- Fixed fast charging. 
+- Update blobs and fw from OS3.0.6.0.WOLMIXM
+- Switch to user build
+- Fixed FP not working in apps when more than 2 fp's added. 
+- Fixed low brightness on AOD. 
+- Fixed MIUI color modes are not applied properly. 
+- More powerhint ricing
+- Removed unused services. 
+- Increase nr_requests to 256.
+- Add LMKD properties.
+- Optimize sched_lib_name
+- Enable bluetooth avrcp controller profile
+- Address various sepolicy denials. 
 - Other more changes and improvements.
