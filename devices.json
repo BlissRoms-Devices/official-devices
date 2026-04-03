@@ -232,6 +232,17 @@
    },
    {
       "brand": "Nothing",
+      "codename": "Tetris",
+      "name": "CMF Phone (1)",
+      "supported_versions": [
+         {
+            "maintainer_name": "Sreelekshman",
+            "support_thread": "https://t.me/Team_Bliss_Community"
+         }
+      ]
+   },
+   {
+      "brand": "Nothing",
       "codename": "Pong",
       "name": "Phone 2",
       "supported_versions": [
@@ -251,7 +262,7 @@
             "support_thread": "https://t.me/Team_Bliss_Community"
          }
       ]
-   },
+   },   
    {
       "brand": "OnePlus",
       "codename": "enchilada",

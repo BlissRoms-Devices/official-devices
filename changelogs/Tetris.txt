@@ -1,0 +1,6 @@
+====== BlissRoms v19.4 ========
+- Initial Release Build
+
+====== Known Bugs ======
+- 60fps video recording not working
+- 32 Bits DACs not working
