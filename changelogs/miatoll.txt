@@ -1,4 +1,17 @@
 =================
+Date - 05/04/2026
+=================
+
+Changelog:
+• Merged March 2026 Security Patch
+
+Notes:
+• FBEv2 Encryption
+• MIUI Camera not Included
+• Vanilla & Pico GApps Build Available 
+
+
+=================
 Date - 03/03/2026
 =================
 
