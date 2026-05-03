@@ -1,3 +1,14 @@
+====== BlissRoms v19.5 ========
+- sm8150-common: Upgrade IRadio version to 1.5
+- sm8150-common: Build Lineage Health HAL
+- Revert "sm8150-common: wifi: Support Wifi6"
+- sm8150-common: sepolicy: Allow parts to set haptic intensity
+- sm8150-common: parts: Vibrate when changing haptic feedback level
+- sm8150-common: parts: Introduce haptic feedback level adjustment
+- sm8150-common: audio: refine volume curves and step configuration
+- sm8150-common: Move volume configuration to device
+===============================
+
 ====== BlissRoms v19.4 ========
 - raphael: Spoof ro.product.mod_device to raphael_global for Leica
 - raphael: Sync gpu freq. with kernel
