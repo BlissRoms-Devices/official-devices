@@ -1,9 +1,9 @@
 =================
-Date - 02/04/2026
+Date - 07/05/2026
 =================
 
 Device Changelog:
-- Added Toggle for HTSR
-- Bumped default TSR
-- Drop xiaomi micharge service
+- Updated sf duration to 12.3ms
+- Added cpu.uclamp tweak
+- Addressed sepolicy denials 
 - Other more changes and improvements.
