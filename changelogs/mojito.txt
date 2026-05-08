@@ -1,8 +1,8 @@
 =================
-Date - 30/03/2026
+Date - 08/05/2026
 =================
-====== BlissRoms v19.4 ========
+====== BlissRoms v19.5 ========
 Device Changelog:
-- Fixed soft reboot.
-- Included Lecia cam.
+- Fixed USB-C earphone mic not working for recording and VoIP
+- Fixed the different blur level when unlock the phone
 - Other more changes and improvements.
