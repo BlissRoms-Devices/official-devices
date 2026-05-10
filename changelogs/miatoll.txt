@@ -1,4 +1,20 @@
 =================
+Date - 10/05/2026
+=================
+
+Changelog:
+• Unset TARGET_CPU_ABI2
+• Merged April 2026 Security Patch
+• Bump kernel BPF version override to 5.10.239
+• Removed fwk-detect lib from PRODUCT_PACKAGES
+
+
+Notes:
+• FBEv2 Encryption
+• MIUI Camera not Included
+• Vanilla & Pico GApps Build Available 
+
+=================
 Date - 05/04/2026
 =================
 
