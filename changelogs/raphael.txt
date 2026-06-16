@@ -1,3 +1,13 @@
+====== BlissRoms v19.6 ========
+- raphael: Add a few extra CPU freq. to keep 855+
+- sm8150-common: Fix TARGET_2ND_ARCH_VARIANT
+- sm8150-common: Livedisplay: Change dc_enable to dc_dim
+- sm8150-common: Disable Smart Pixels on UDFPS
+- sm8150-common: Switch to dot product CPU variant
+- sm8150-common: Optimize native executables for Cortex-A76 CPU
+- sm8150-common: Implement torch light control
+===============================
+
 ====== BlissRoms v19.5 ========
 - sm8150-common: Upgrade IRadio version to 1.5
 - sm8150-common: Build Lineage Health HAL
