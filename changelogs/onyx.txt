@@ -1,16 +1,31 @@
 =================
-Date - 15/06/2026
+Date - 22/08/2026
 =================
 
 Device Changelog:
-- Update blobs and fw from OS3.0.7.0.WOLMIXM
-- Added Miui Camera
-- Fixed the bug where the incoming call number showed incorrectly
-- Update CarrierConfig from OS3.0.7.0.WOLMIXM
-- Enabled VoRN for a bunch of carriers
-- Reset default touch sampling rate to 120
-- Automatically increase touch sampling rate in games
-- Remove printk loglevel setup from init.qcom.sh
-- Fixed Camera for some CN units
-- Fixed FP for some CN units
+- Switch source built dtbo, kernel and modules
+- Fixed Dolby Atmos effects not changed after using somedays  
+- Remove in tree touch sampling rate overrides
+- Switch to common AIDL IR service
+- Fixed OTG detection in recovery
+- Added support for Touch in recovery
+- Clean up rootdir
+- Added NotGameTurbo
+- Use HintManager for HWUI & Enable ADPF CPU hints
+- Enable LZ4KD by default
+- wifi: Drop redundant duplicate keys
+- wifi: Disable WLAN Firmware loggings
+- wifi: Relax WiFi re-association RSSI thresholds
+- wifi: Set gTDLSExternalControl=1
+- Add DeviceAsWebcam
+- Add Ultra HDR shaders to SurfaceFlinger pre-warming cache
+- Enable VoWiFi for NTC and Ncell (Nepal, MCC 429)
+- Enable single_tap sensor
+- Move to xiaomi double tap sensor
+- Clean up audio blob & libs
+- overlays: Redo corner/cutout overlays
+- Disable AutoSingleLayer mode
+- Set touch timer to 1100ms
+- Optimize CPU frequency floors
+- Reduce cpu core to foreground, background, system-background
 - Other more changes and improvements.
