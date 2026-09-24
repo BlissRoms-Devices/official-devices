@@ -1,31 +1,27 @@
 =================
-Date - 22/08/2026
+Date - 24/09/2026
 =================
 
 Device Changelog:
-- Switch source built dtbo, kernel and modules
-- Fixed Dolby Atmos effects not changed after using somedays  
-- Remove in tree touch sampling rate overrides
-- Switch to common AIDL IR service
-- Fixed OTG detection in recovery
-- Added support for Touch in recovery
-- Clean up rootdir
-- Added NotGameTurbo
-- Use HintManager for HWUI & Enable ADPF CPU hints
-- Enable LZ4KD by default
-- wifi: Drop redundant duplicate keys
-- wifi: Disable WLAN Firmware loggings
-- wifi: Relax WiFi re-association RSSI thresholds
-- wifi: Set gTDLSExternalControl=1
-- Add DeviceAsWebcam
-- Add Ultra HDR shaders to SurfaceFlinger pre-warming cache
-- Enable VoWiFi for NTC and Ncell (Nepal, MCC 429)
-- Enable single_tap sensor
-- Move to xiaomi double tap sensor
-- Clean up audio blob & libs
-- overlays: Redo corner/cutout overlays
-- Disable AutoSingleLayer mode
-- Set touch timer to 1100ms
-- Optimize CPU frequency floors
-- Reduce cpu core to foreground, background, system-background
+- Initial A17 build
+- Removed gamebar
+- Update WFD system blobs from marvel_g A171WEH.20
+- Address sepolicy denials
+- Optimizing dalvik heap configs
+- Set ro.surface_flinger.uclamp.min to 103
+- Use lz4 for zram
+- Enabled camera ring as notification led
+- Remapped some haptics
+- rootdir: Drop legacy blkio cgroup writes
+- rootdir: Drop obsolete legacy storage, cgroup v1, and uclamp nodes
+- wifi: Sync WCNSS_qcom_cfg.ini from LA.VENDOR.15.4.0.r1-18400-pakala.QSSI16.0
+- wifi: Set roam_bg_scan_bad_rssi_thresh to -85 dBm
+- wifi: Smarter decisions on whether to use 2/5Ghz AP
+- Force 'speed' compiler filter for SystemServer and SystemUI
+- Disable Async MTE on System Server
+- Disable Kernel MTE
+- Increase media volume steps from 15 to 25
+- Enable VoWiFi for Grameenphone and Banglalink (Bangladesh, MCC 470)
+- overlay: Remove deprecated world_phone flag
+- Add lseek syscall for qesdksec.policy
 - Other more changes and improvements.
