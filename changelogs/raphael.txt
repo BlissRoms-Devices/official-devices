@@ -1,3 +1,7 @@
+====== BlissRoms v20.0 ========
+- Initial Android 17 Build
+===============================
+
 ====== BlissRoms v19.6 ========
 - raphael: Add a few extra CPU freq. to keep 855+
 - sm8150-common: Fix TARGET_2ND_ARCH_VARIANT
