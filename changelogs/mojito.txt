@@ -1,8 +1,9 @@
 =================
-Date - 08/05/2026
+Date - 29/09/2026
 =================
-====== BlissRoms v19.5 ========
+====== BlissRoms v20.0 ========
 Device Changelog:
-- Fixed USB-C earphone mic not working for recording and VoIP
-- Fixed the different blur level when unlock the phone
+- Adapt device sources for A17
+- Use WCS Mod kernel
+- Fix WPA3 Wi-Fi connectivity
 - Other more changes and improvements.
