@@ -231,6 +231,16 @@
       ]
    },
    {
+      "brand": "Motorola",
+      "codename": "mona",
+      "name": "Moto G Stylus 2025",
+      "supported_versions": [
+         {
+            "maintainer_name": "Bcrichster",
+            "support_thread": "https://t.me/a_team_android"
+         }
+      ]
+   {
       "brand": "Nothing",
       "codename": "Spacewar",
       "name": "Phone 1",
