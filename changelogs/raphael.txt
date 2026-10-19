@@ -1,3 +1,8 @@
+====== BlissRoms v20.1 ========
+- sm8150-common: audio: Drop the direct VoIP output
+- sm8150-common: Renamed hotspot SSID to Miatoll
+===============================
+
 ====== BlissRoms v20.0 ========
 - Initial Android 17 Build
 ===============================
