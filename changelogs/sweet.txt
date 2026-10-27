@@ -1,3 +1,7 @@
+26/10/2026 - Bliss v20.1:
+- Added Blur
+- Updated MiUi Camera
+
 26/09/2026 - Bliss v19.6.1:
 - Removed Blur
 - Added Dolby
