@@ -1,25 +1,22 @@
 =================
-Date - 24/10/2026
+Date - 15/11/2026
 =================
 
 Device Changelog:
-- Added Leica Cam.
-- Fixed Redmi Turbo 4 pro boot
-- Fixed offline charging
-- Fixed FP unlock ripple animation effect
-- Removed unused services
-- Address more sepolicy denials
-- Pin core system files via PinnerService
-- Set Qualcomm hardware media parser to 16777215
-- Set min_free_kbytes configuration for 12GB target
-- Increase watermark_scale_factor to 200
-- Wire up per fps sf durations
-- Enable QCRIL radio power saving
-- Enable adaptive bitrate on the AAC offload encoder
-- Add scaling_min_freq expensive rendering boost
-- Add LLCC and L3 cache rendering boost
-- Set ZRAM swappiness to 60
-- Tune LMKD properties for better app keeping
-- Replace writepid with task_profiles command
-- Enable CameraX extensions support
+- Add DeviceAsWebcam
+- google lens option is fixed on Leica cam.
+- Updated several sepolicy permission
+- powerhint: Remove adaptive freq launch boost
+- powerhint: correct sched_busy_hyst_ns value to 3000000
+- powerhint: Remove sched_boost power hints
+- powerhint: Enable dynamic core control across all clusters
+- powerhint: Remove cpu2 walt hispeed_freq power hint
+- Restrict background and restricted cpusets to efficiency cores
+- Remove unnecessary daemon service
+- Import Xiaomi SeaAudio AIDL service and model configs
+- overlay: Update pinner service files
+- Remove soter
+- Drop AVB keys
+- Drop BOARD_MOVE_GSI_AVB_KEYS_TO_VENDOR_BOOT
+- Drop avb hastree footer args
 - Other more changes and improvements.
