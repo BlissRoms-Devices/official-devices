@@ -1,9 +1,9 @@
 =================
-Date - 29/09/2026
+Date - 16/11/2026
 =================
-====== BlissRoms v20.0 ========
+====== BlissRoms v20.2 ========
 Device Changelog:
-- Adapt device sources for A17
-- Use WCS Mod kernel
-- Fix WPA3 Wi-Fi connectivity
+- Switch to strix kernel
+- Included Leica camera
+- Fixed rom flash on stock recovery
 - Other more changes and improvements.
