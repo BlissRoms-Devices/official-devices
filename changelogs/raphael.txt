@@ -1,3 +1,9 @@
+====== BlissRoms v20.2 ========
+raphael: audio: Added LunarisDolby
+raphael: Update Miuicamera
+raphael: and small updates
+===============================
+
 ====== BlissRoms v20.1 ========
 - sm8150-common: audio: Drop the direct VoIP output
 - sm8150-common: Renamed hotspot SSID to Miatoll
